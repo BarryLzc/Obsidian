@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis/redis manager.md",
+                "file": "WebHook/WebHook系统踩坑.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redis/redis manager.md",
+                "file": "WebHook/WebHook系统踩坑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redis/redis manager.md",
+                "file": "WebHook/WebHook系统踩坑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redis/redis manager.md"
+                "file": "WebHook/WebHook系统踩坑.md"
               }
             }
           },
@@ -156,6 +156,10 @@
   },
   "active": "dbafd184538d04b3",
   "lastOpenFiles": [
+    "WebHook/系统核心知识点.md",
+    "WebHook/WebHook系统踩坑.md",
+    "监控系统架构设计/指标监控架构设计.md",
+    "redis/redis manager.md",
     "监控系统架构设计/监控系统后续优化.md",
     "Untitled.md",
     "2024-09-02.md",
@@ -182,13 +186,9 @@
     "计算机网络/Cookie.md",
     "计算机网络",
     "WebHook/重试消息的设计.md",
-    "WebHook/系统核心知识点.md",
-    "WebHook/WebHook系统后续优化.md",
-    "redis/redis manager.md",
     "MQ/Pulsar/独占模式（Exclusive ）.md",
     "MQ/Pulsar/灾备模式（Failover）.md",
     "MQ/Pulsar/Share模式.md",
-    "MQ/Pulsar/Key-Share模式.md",
     "系统的排查与检测",
     "Screen Shot 2024-06-25 at 12.03.52 1.png",
     "Screen Shot 2024-06-25 at 12.01.31.png",
