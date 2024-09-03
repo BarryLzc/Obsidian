@@ -1,0 +1,1 @@
+概要：灾备模式是1个订阅可以用多个消费者，但只有master consuemer可以消费消息，当master断开后，消息会由下一个被选中的consumer进行消费。
