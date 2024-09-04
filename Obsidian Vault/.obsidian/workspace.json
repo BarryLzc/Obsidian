@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbafd184538d04b3",
+            "id": "9303fbf5980f88ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebHook/WebHook系统踩坑.md",
+                "file": "计算机网络/DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebHook/WebHook系统踩坑.md",
+                "file": "计算机网络/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebHook/WebHook系统踩坑.md",
+                "file": "计算机网络/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebHook/WebHook系统踩坑.md"
+                "file": "计算机网络/DNS.md"
               }
             }
           },
@@ -154,14 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee2571119bbb9350",
+  "active": "9303fbf5980f88ff",
   "lastOpenFiles": [
-    "WebHook/系统核心知识点.md",
+    "订阅电商业务整理.md",
+    "计算机网络/DNS.md",
+    "Screen Shot 2024-09-04 at 18.43.35.png",
+    "Untitled",
     "WebHook/WebHook系统踩坑.md",
+    "WebHook/系统核心知识点.md",
     "监控系统架构设计/指标监控架构设计.md",
     "redis/redis manager.md",
     "监控系统架构设计/监控系统后续优化.md",
-    "Untitled.md",
     "2024-09-02.md",
     "server-less/Serverless学习笔记.md",
     "Untitled.canvas",
@@ -187,15 +190,12 @@
     "计算机网络",
     "WebHook/重试消息的设计.md",
     "MQ/Pulsar/独占模式（Exclusive ）.md",
-    "MQ/Pulsar/灾备模式（Failover）.md",
-    "MQ/Pulsar/Share模式.md",
     "系统的排查与检测",
     "Screen Shot 2024-06-25 at 12.03.52 1.png",
     "Screen Shot 2024-06-25 at 12.01.31.png",
     "人工智能",
     "Screen Shot 2024-06-25 at 12.03.52.png",
     "redis",
-    "linux操作系统",
     "监控系统架构设计/监控架构设计图.png",
     "监控系统架构设计/Pasted image 20240527165852.png",
     "Pasted image 20240527165845.png"
