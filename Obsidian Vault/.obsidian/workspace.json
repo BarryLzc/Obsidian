@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fcc586fa53637109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang/gorm源码阅读.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5
   },
   "right": {
     "id": "bc2f17a6f8792d62",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/DNS.md",
+                "file": "Golang/gorm源码阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/DNS.md",
+                "file": "Golang/gorm源码阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/DNS.md"
+                "file": "Golang/gorm源码阅读.md"
               }
             }
           },
@@ -154,10 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9303fbf5980f88ff",
+  "active": "ee2571119bbb9350",
   "lastOpenFiles": [
-    "订阅电商业务整理.md",
+    "Screen Shot 2024-09-03 at 20.21.31.png",
+    "Golang/gorm源码阅读.md",
     "计算机网络/DNS.md",
+    "订阅电商业务整理.md",
     "Screen Shot 2024-09-04 at 18.43.35.png",
     "Untitled",
     "WebHook/WebHook系统踩坑.md",
@@ -189,7 +204,6 @@
     "计算机网络/Cookie.md",
     "计算机网络",
     "WebHook/重试消息的设计.md",
-    "MQ/Pulsar/独占模式（Exclusive ）.md",
     "系统的排查与检测",
     "Screen Shot 2024-06-25 at 12.03.52 1.png",
     "Screen Shot 2024-06-25 at 12.01.31.png",
