@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础算法/数组/数组最小的子数组.md",
+                "file": "操作系统/linux常规操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础算法/数组/数组最小的子数组.md",
+                "file": "操作系统/linux常规操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础算法/数组/数组最小的子数组.md",
+                "file": "操作系统/linux常规操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础算法/数组/数组最小的子数组.md"
+                "file": "操作系统/linux常规操作.md"
               }
             }
           },
@@ -156,8 +156,11 @@
   },
   "active": "9303fbf5980f88ff",
   "lastOpenFiles": [
-    "基础算法/数组/二分法.md",
     "基础算法/数组/数组最小的子数组.md",
+    "操作系统/linux常规操作.md",
+    "操作系统",
+    "linux操作系统/linux系统.md",
+    "基础算法/数组/二分法.md",
     "基础算法/数组/移除元素.md",
     "基础算法/数组/有序数组的平方.md",
     "计算机网络/DNS.md",
@@ -169,7 +172,6 @@
     "Screen Shot 2024-09-03 at 20.21.31.png",
     "订阅电商业务整理.md",
     "Screen Shot 2024-09-04 at 18.43.35.png",
-    "Untitled",
     "WebHook/WebHook系统踩坑.md",
     "WebHook/系统核心知识点.md",
     "监控系统架构设计/指标监控架构设计.md",
@@ -186,9 +188,7 @@
     "server-less",
     "人工智能/算力&内存带宽&内存容量和通信数据量的计算.md",
     "人工智能/显卡.md",
-    "linux操作系统/linux系统.md",
     "Golang/GOPATH.md",
-    "Golang/go env配置.md",
     "Projetcs/cahoot",
     "Projetcs",
     "计算机网络",
