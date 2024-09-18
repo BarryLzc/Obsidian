@@ -3,4 +3,3 @@
 	- 打开储存桶策略
 	- 打开CORS跨域资源访问策略
 3. api gate way开启CORS配置
-4. 
