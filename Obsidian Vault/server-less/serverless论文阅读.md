@@ -1,1 +1,2 @@
 1. https://sci-hub.st/10.1109/cloud.2018.00064
+2. https://www.researchgate.net/profile/Manoj-Kumar-318/publication/331729868_Serverless_Architectures_Review_Future_Trend_and_the_Solutions_to_Open_Problems/links/5c984797a6fdccd460384edb/Serverless-Architectures-Review-Future-Trend-and-the-Solutions-to-Open-Problems.pdf

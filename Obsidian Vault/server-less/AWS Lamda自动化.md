@@ -7,4 +7,13 @@
 	- 调试的过程比较麻烦，不能接入外部的 Git 服务，只能用 AWS 自己的那个
 	- 上线的脚本多了之后维护起来很麻烦，没有一个统一管理的方案
 	- 强依赖 AWS 自己的服务，日后迁移要大改脚本
-	
+4. AWS serverless架构图
+	- Serverless Web Application Architecture with AWS 1
+	![[Screen Shot 2024-09-22 at 17.27.26.png]]
+	- Serverless Web Application Architecture with AWS 2
+	![[Screen Shot 2024-09-22 at 17.27.32 1.png]]
+
+
+
+reference:
+1. https://www.researchgate.net/profile/Manoj-Kumar-318/publication/331729868_Serverless_Architectures_Review_Future_Trend_and_the_Solutions_to_Open_Problems/links/5c984797a6fdccd460384edb/Serverless-Architectures-Review-Future-Trend-and-the-Solutions-to-Open-Problems.pdf
