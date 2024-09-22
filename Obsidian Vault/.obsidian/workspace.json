@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server-less/serverless 开发笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b5efa6a6dd7bb25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "server-less/s3静态页面调用serverless api.md",
+                "file": "server-less/serverless论文阅读.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 295.5
   },
   "right": {
     "id": "bc2f17a6f8792d62",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "server-less/s3静态页面调用serverless api.md",
+                "file": "server-less/serverless论文阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "server-less/s3静态页面调用serverless api.md",
+                "file": "server-less/serverless论文阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "server-less/s3静态页面调用serverless api.md"
+                "file": "server-less/serverless论文阅读.md"
               }
             }
           },
@@ -167,24 +154,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b5efa6a6dd7bb25",
+  "active": "9303fbf5980f88ff",
   "lastOpenFiles": [
-    "server-less/serverless-debug.md",
-    "server-less/s3静态页面调用serverless api.md",
-    "server-less/serverless 开发笔记.md",
+    "server-less/serverless学习笔记.md",
+    "Screen Shot 2024-09-22 at 17.20.38.png",
+    "Screen Shot 2024-09-22 at 17.14.25.png",
+    "Screen Shot 2024-09-22 at 17.14.35.png",
+    "Screen Shot 2024-09-22 at 17.06.18 1.png",
+    "Screen Shot 2024-09-22 at 17.06.18.png",
+    "Screen Shot 2024-09-22 at 16.39.57.png",
     "server-less/AWS Lamda自动化.md",
-    "server-less/Serverless学习笔记.md",
+    "server-less/s3静态页面调用serverless api.md",
+    "server-less/serverless-debug.md",
+    "server-less/serverless论文阅读.md",
+    "server-less/serverless开发笔记.md",
+    "基础算法/数组/二分法.md",
+    "基础算法/数组/有序数组的平方.md",
+    "基础算法/数组/数组最小的子数组.md",
+    "基础算法/数组/移除元素.md",
+    "基础算法/数组/螺旋矩阵.md",
     "serverless 1.yml",
     "serverless.yml",
     "人工智能/算力&内存带宽&内存容量和通信数据量的计算.md",
     "操作系统/linux常规操作.md",
     "Untitled",
-    "基础算法/数组/数组最小的子数组.md",
     "操作系统",
     "linux操作系统/linux系统.md",
-    "基础算法/数组/二分法.md",
-    "基础算法/数组/移除元素.md",
-    "基础算法/数组/有序数组的平方.md",
     "计算机网络/DNS.md",
     "Golang/gorm源码阅读.md",
     "系统的排查与检测/pprof排查内存泄漏.md",
@@ -198,21 +193,14 @@
     "WebHook/系统核心知识点.md",
     "监控系统架构设计/指标监控架构设计.md",
     "redis/redis manager.md",
-    "监控系统架构设计/监控系统后续优化.md",
-    "2024-09-02.md",
     "Untitled.canvas",
     "基础算法/数组",
-    "基础算法/Untitled.md",
     "基础算法",
     "server-less",
     "Projetcs/cahoot",
     "Projetcs",
     "计算机网络",
     "Screen Shot 2024-06-25 at 12.03.52 1.png",
-    "Screen Shot 2024-06-25 at 12.01.31.png",
-    "Screen Shot 2024-06-25 at 12.03.52.png",
-    "监控系统架构设计/监控架构设计图.png",
-    "监控系统架构设计/Pasted image 20240527165852.png",
-    "Pasted image 20240527165845.png"
+    "Screen Shot 2024-06-25 at 12.01.31.png"
   ]
 }
