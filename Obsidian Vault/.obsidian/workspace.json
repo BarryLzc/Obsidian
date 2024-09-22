@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server-less/AWS Lamda自动化.md",
+                "file": "server-less/serverless学习笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "server-less/AWS Lamda自动化.md",
+                "file": "server-less/serverless学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "server-less/AWS Lamda自动化.md",
+                "file": "server-less/serverless学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "server-less/AWS Lamda自动化.md"
+                "file": "server-less/serverless学习笔记.md"
               }
             }
           },
@@ -156,12 +156,12 @@
   },
   "active": "9303fbf5980f88ff",
   "lastOpenFiles": [
-    "server-less/serverless-debug.md",
     "server-less/serverless开发笔记.md",
+    "server-less/serverless论文阅读.md",
     "server-less/serverless学习笔记.md",
+    "server-less/serverless-debug.md",
     "server-less/s3静态页面调用serverless api.md",
     "server-less/AWS Lamda自动化.md",
-    "server-less/serverless论文阅读.md",
     "Screen Shot 2024-09-22 at 17.27.32 1.png",
     "Screen Shot 2024-09-22 at 17.27.32.png",
     "Screen Shot 2024-09-22 at 17.27.26.png",
