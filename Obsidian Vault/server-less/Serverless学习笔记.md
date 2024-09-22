@@ -29,8 +29,9 @@ Google 的 Firebase/Firestore 的支持其实是 Firebase 本身提供的，并�
 微服务场景下，AWS，阿里云，华为云的做法都是通过 API Gateway 配置规则，将请求转发给 Function，Google 和 Azure 是直接提供 http trigger 地址。前者的好处是可以复用 API Gateway 的其他功能，但使用起来略复杂，后者简单易用。
 - ***运维***
 ![[Screen Shot 2024-09-22 at 17.14.25.png]]
-
-5. ***开源项目对比***![[Screen Shot 2024-09-22 at 17.20.38.png]]
+- ***小节***
+	整体看来，公有云的 FaaS 还都处于起步阶段，主要着力于和 IaaS 已有的系统整合以及新语言的支持。跟已有系统整合上，大致有两种方式。一种是 AWS ，FaaS 只是 Function 的运行平台，触发器在各系统配置，FaaS 是对其他系统自定义需求的补充。另外一种是 Azure 这种，围绕着 Function 定义触发器以及输入输出和其他系统整合，Function 是中心，其他系统是支撑。
+1. ***开源项目对比***![[Screen Shot 2024-09-22 at 17.20.38.png]]
 - **Openwisk** 是 IBM 捐献给 Apache 的项目，当前还在孵化中。IBM 同时在自己的 Bluemix 上提供了 Openwisk 服务。它的架构是基于 Akka 的 actor 模型（不熟悉 actor 模型的可以参看本人的文章《[并发之痛 Thread，Goroutine，Actor](https://jolestar.com/parallel-programming-model-thread-goroutine-actor/)》）构建，中间以 Kafka 作为消息中间件。OpenWhisk 的抽象概念考虑的场景比较多。它的 Trigger 是可以独立定义的，而不是系统中确定的几种。然后通过 Rule 把 Trigger 和 Action（相当于 Function） 关联起来。有 Package 的概念，相当于可以把多个 Function 打包成同一个 Package，然后进行分发。另外它又抽象了一种 Feed 的概念，相当于一个事件流，可以做一些流式处理上的逻辑。同时它支持 Chain 的机制，把多个 Action 串起来进行 Pipeline 调用。
 
 - **Fnproject** 是 Oracle 收购了 iron.io 后，从 iron-io/function 这个项目直接改造过来的。iron function 创建于 2012 年，2013 项目中断，2015年重新启动，2017 年被 Oracle 收购。它的架构比较简单，Function 的交付结果是容器镜像，每次请求都运行一个 Docker 容器，然后从标准输出获取结果输出，再销毁容器。所以它基本上只需要一个 API Gateway 做路由，然后后面挂一个容器运行环境就行，单机或者容器编排引擎都行。Fnproject 在 FaaS 之上发布了一个叫做 flow 的项目，一种工作流引擎，特点是基于编程语言来调度，而不是编排文件或者自定义描述语言，对开发者友好，并且容易编写复杂的工作流逻辑。
