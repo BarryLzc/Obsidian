@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础算法/数组/螺旋矩阵.md",
+                "file": "基础算法/排序算法/快速排序算法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础算法/数组/螺旋矩阵.md",
+                "file": "基础算法/排序算法/快速排序算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础算法/数组/螺旋矩阵.md",
+                "file": "基础算法/排序算法/快速排序算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础算法/数组/螺旋矩阵.md"
+                "file": "基础算法/排序算法/快速排序算法.md"
               }
             }
           },
@@ -156,11 +156,15 @@
   },
   "active": "9303fbf5980f88ff",
   "lastOpenFiles": [
+    "操作系统/linux常规操作.md",
+    "基础算法/排序算法/快速排序算法.md",
+    "基础算法/排序算法",
+    "Golang/GoPlugin热加载.md",
+    "基础算法/数组/螺旋矩阵.md",
     "基础算法/数组/移除元素.md",
     "基础算法/数组/有序数组的平方.md",
     "基础算法/数组/数组最小的子数组.md",
     "基础算法/数组/二分法.md",
-    "基础算法/数组/螺旋矩阵.md",
     "server-less/serverless学习笔记.md",
     "server-less/serverless开发笔记.md",
     "server-less/serverless论文阅读.md",
@@ -179,7 +183,6 @@
     "serverless 1.yml",
     "serverless.yml",
     "人工智能/算力&内存带宽&内存容量和通信数据量的计算.md",
-    "操作系统/linux常规操作.md",
     "Untitled",
     "操作系统",
     "linux操作系统/linux系统.md",
@@ -194,13 +197,11 @@
     "WebHook/WebHook系统踩坑.md",
     "WebHook/系统核心知识点.md",
     "监控系统架构设计/指标监控架构设计.md",
-    "redis/redis manager.md",
     "Untitled.canvas",
     "基础算法/数组",
     "基础算法",
     "server-less",
     "Projetcs/cahoot",
-    "Projetcs",
-    "计算机网络"
+    "Projetcs"
   ]
 }
