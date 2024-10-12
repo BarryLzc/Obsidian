@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/gorm源码阅读.md",
+                "file": "监控系统架构设计/监控系统后续优化.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/gorm源码阅读.md",
+                "file": "监控系统架构设计/监控系统后续优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang/gorm源码阅读.md",
+                "file": "监控系统架构设计/监控系统后续优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/gorm源码阅读.md"
+                "file": "监控系统架构设计/监控系统后续优化.md"
               }
             }
           },
@@ -156,17 +156,22 @@
   },
   "active": "9303fbf5980f88ff",
   "lastOpenFiles": [
+    "监控系统架构设计/ClickHouse索引优化.md",
+    "监控系统架构设计/指标监控架构设计.md",
+    "监控系统架构设计/监控系统后续优化.md",
+    "server-less/serverless开发笔记.md",
+    "基础算法/数组/二分法.md",
+    "MQ/Pulsar/非持久化订阅&进场广播.md",
+    "Golang/GoPlugin热加载.md",
+    "Golang/gorm源码阅读.md",
     "基础算法/排序算法/快速排序算法.md",
     "操作系统/linux常规操作.md",
     "基础算法/排序算法",
-    "Golang/GoPlugin热加载.md",
     "基础算法/数组/螺旋矩阵.md",
     "基础算法/数组/移除元素.md",
     "基础算法/数组/有序数组的平方.md",
     "基础算法/数组/数组最小的子数组.md",
-    "基础算法/数组/二分法.md",
     "server-less/serverless学习笔记.md",
-    "server-less/serverless开发笔记.md",
     "server-less/serverless论文阅读.md",
     "server-less/serverless-debug.md",
     "server-less/s3静态页面调用serverless api.md",
@@ -187,16 +192,11 @@
     "操作系统",
     "linux操作系统/linux系统.md",
     "计算机网络/DNS.md",
-    "Golang/gorm源码阅读.md",
     "系统的排查与检测/pprof排查内存泄漏.md",
     "计算机网络/Cookie.md",
     "计算机网络/Nginx.md",
     "Golang/fast-http.md",
     "Screen Shot 2024-09-03 at 20.21.31.png",
-    "订阅电商业务整理.md",
-    "WebHook/WebHook系统踩坑.md",
-    "WebHook/系统核心知识点.md",
-    "监控系统架构设计/指标监控架构设计.md",
     "Untitled.canvas",
     "基础算法/数组",
     "基础算法",
