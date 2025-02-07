@@ -4,6 +4,7 @@
 1. 普通编译：go build -buildmode=plugin -o xxx.so
 2. debug模式编译：go build -gcflags "all=-N -l" -o xxx.so -buildmode=plugin xxx.go     
 3. linux交叉编译plugin：CC=x86_64-linux-musl-gcc CGO_ENABLED=1 GOOS=linux GOARCH=amd64 go build -ldflags "-s -w" -buildmode=plugin -o signlinux.so（注意需要先在安装工具链 `brew install FiloSottile/musl-cross/musl-cross`）
+4. GOOS=linux GOARCH=amd64 make build（使用make file交叉编译）
 ```
 package main
 
