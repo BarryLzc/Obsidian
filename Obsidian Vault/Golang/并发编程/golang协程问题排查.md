@@ -6,22 +6,21 @@ Go 的 `runtime` 包提供了一些用于调试和分析 Goroutine 的 API，例
 - `runtime.Stack()`: 获取当前所有 Goroutine 的栈信息，类似 `pprof` 的 `goroutine` 采样。
 
 **示例**：
-package main
+	package main
 
-import (
+	import (
     "fmt"
     "runtime"
-    "time"
-)
+    "time")
 
-func main() {
+	func main() {
     go func() {
         time.Sleep(time.Hour)
     }()
 
     time.Sleep(time.Second)
     fmt.Println("Goroutines:", runtime.NumGoroutine())
-}
+	}
 
 
 **应用场景**：
@@ -43,18 +42,17 @@ func main() {
     "os"
     "runtime/trace")
 
-func main() {
-    f, err := os.Create("trace.out")
-    if err != nil {
-        log.Fatal(err)
-    }
-    defer f.Close()
+	func main() {
+	    f, err := os.Create("trace.out")
+	    if err != nil {
+		    log.Fatal(err)
+	    }
+	    defer f.Close()
 
-    trace.Start(f)
-    defer trace.Stop()
+	    trace.Start(f)
+	    defer trace.Stop()
 	}
 
-    
 2. 运行程序后，使用 `go tool trace` 可视化分析：
     `go run main.go go tool trace trace.out`
     
