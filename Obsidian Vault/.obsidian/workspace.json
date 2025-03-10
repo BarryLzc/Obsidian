@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/并发编程/golang协程问题排查.md",
+                "file": "架构设计/集群部署.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "golang协程问题排查"
+              "title": "集群部署"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5
   },
   "right": {
     "id": "bc2f17a6f8792d62",
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/并发编程/golang协程问题排查.md",
+                "file": "架构设计/集群部署.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of golang协程问题排查"
+              "title": "Outline of 集群部署"
             }
           }
         ],
@@ -168,8 +168,9 @@
   },
   "active": "de7ffe7557fe80e7",
   "lastOpenFiles": [
-    "操作系统/linux shell排查命令.md",
     "Golang/并发编程/golang协程问题排查.md",
+    "架构设计",
+    "操作系统/linux shell排查命令.md",
     "操作系统/linux常规操作.md",
     "计算机网络/网段&子网掩码计算.md",
     "Pasted image 20250310164418.png",
@@ -197,7 +198,6 @@
     "人工智能/pytorch管理.md",
     "人工智能/Stable Diffusion 模型工作逻辑.md",
     "人工智能/深度学习",
-    "人工智能/机器学习",
     "人工智能/嵌入向量.md",
     "人工智能/向量.md",
     "人工智能/计算机视觉.md",
@@ -206,7 +206,6 @@
     "操作系统/实时操作系统.md",
     "操作系统/嵌入式操作系统.md",
     "操作系统/信号量.md",
-    "Untitled 1.md",
     "Screen Shot 2025-02-11 at 20.43.28.png",
     "Screen Shot 2025-02-11 at 20.34.31.png",
     "Screen Shot 2024-09-22 at 17.27.32 1.png",
