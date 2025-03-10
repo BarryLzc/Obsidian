@@ -6,12 +6,23 @@ Go 的 `runtime` 包提供了一些用于调试和分析 Goroutine 的 API，例
 - `runtime.Stack()`: 获取当前所有 Goroutine 的栈信息，类似 `pprof` 的 `goroutine` 采样。
 
 **示例**：
+package main
 
-go
+import (
+    "fmt"
+    "runtime"
+    "time"
+)
 
-复制编辑
+func main() {
+    go func() {
+        time.Sleep(time.Hour)
+    }()
 
-`package main  import (     "fmt"     "runtime"     "time" )  func main() {     go func() {         time.Sleep(time.Hour)     }()      time.Sleep(time.Second)     fmt.Println("Goroutines:", runtime.NumGoroutine()) }`
+    time.Sleep(time.Second)
+    fmt.Println("Goroutines:", runtime.NumGoroutine())
+}
+
 
 **应用场景**：
 
@@ -27,22 +38,27 @@ go
 **使用方法**：
 
 1. 代码中加入：
-    
-    go
-    
-    复制编辑
-    
-    `import (     "log"     "os"     "runtime/trace" )  func main() {     f, err := os.Create("trace.out")     if err != nil {         log.Fatal(err)     }     defer f.Close()      trace.Start(f)     defer trace.Stop()      // }`
+    import (
+    "log"
+    "os"
+    "runtime/trace")
+
+func main() {
+    f, err := os.Create("trace.out")
+    if err != nil {
+        log.Fatal(err)
+    }
+    defer f.Close()
+
+    trace.Start(f)
+    defer trace.Stop()
+	}
+
     
 2. 运行程序后，使用 `go tool trace` 可视化分析：
-    
-    sh
-    
-    复制编辑
-    
     `go run main.go go tool trace trace.out`
     
-3. 浏览器打开 `http://127.0.0.1:XXXXX/` 可查看详细的 Goroutine 执行情况。
+3. 浏览器打开 `http://127.0.0.1:XXXXX/` 可查看详细的 goroutine 执行情况。
 
 **应用场景**：
 
@@ -56,15 +72,20 @@ go
 `debug.Stack()` 可以打印当前 Goroutine 的调用栈，适用于在关键位置（如 `recover()`）打印信息排查问题。
 
 **示例**：
+package main
 
-go
+	import (
+    "fmt"
+    "runtime/debug"
+	)
 
-复制编辑
-
-`package main  import (     "fmt"     "runtime/debug" )  func main() {     go func() {         fmt.Println(string(debug.Stack()))     }() }`
+	func main() {
+	    go func() {
+	        fmt.Println(string(debug.Stack()))
+	    }()
+	}
 
 **应用场景**：
-
 - 在 `panic` 发生时打印 Goroutine 的执行栈，帮助分析问题。
 - 定位 Goroutine 运行到哪里，特别是在死锁或 Goroutine 阻塞时使用。
 
@@ -77,29 +98,22 @@ go
 **使用方法**：
 
 1. 导入 `net/http/pprof`：
-    
-    go
-    
-    复制编辑
-    
-    `import _ "net/http/pprof" import "net/http" import "log"  func main() {     go func() {         log.Println(http.ListenAndServe("localhost:6060", nil))     }()     // 其他业务逻辑 }`
-    
+	import _ "net/http/pprof"
+	import "net/http"
+	import "log"
+
+	func main() {
+	    go func() {
+		    log.Println(http.ListenAndServe("localhost:6060", nil))
+	    }()
+	    // 其他业务逻辑
+	}
+
 2. 运行后访问：
-    
-    sh
-    
-    复制编辑
-    
-    `curl http://localhost:6060/debug/pprof/goroutine?debug=2`
-    
+    curl http://localhost:6060/debug/pprof/goroutine?debug=2
+
 3. 也可以用 `go tool pprof` 分析：
-    
-    sh
-    
-    复制编辑
-    
-    `go tool pprof http://localhost:6060/debug/pprof/goroutine`
-    
+    go tool pprof http://localhost:6060/debug/pprof/goroutine
 
 **应用场景**：
 
@@ -113,13 +127,8 @@ go
 Go 运行时可以开启 `-race` 选项检测 Goroutine 之间的竞争条件（data race）。
 
 **使用方法**：
-
-sh
-
-复制编辑
-
-`go run -race main.go go test -race ./...`
-
+go run -race main.go
+go test -race ./...
 **应用场景**：
 
 - 发现并修复数据竞争问题，避免 Goroutine 之间非预期的读写操作。
@@ -132,27 +141,12 @@ sh
 `delve`（`dlv`）是 Go 的强大调试工具，可以在运行时查看 Goroutine 的详细信息。
 
 **安装**：
-
-sh
-
-复制编辑
-
 `go install github.com/go-delve/delve/cmd/dlv@latest`
 
 **使用**：
-
-sh
-
-复制编辑
-
 `dlv debug ./main.go`
 
 **调试 Goroutine**：
-
-sh
-
-复制编辑
-
 `(dlv) goroutines`
 
 **应用场景**：
@@ -167,12 +161,32 @@ sh
 在代码中手动维护 Goroutine 的创建和销毁情况，帮助排查泄露问题。
 
 **示例**：
+	package main
 
-go
+	import (
+    "fmt"
+    "sync"
+    "time"
+	)
 
-复制编辑
+	var wg sync.WaitGroup
 
-`package main  import (     "fmt"     "sync"     "time" )  var wg sync.WaitGroup  func worker(id int) {     defer wg.Done()     fmt.Println("Worker", id, "started")     time.Sleep(time.Second)     fmt.Println("Worker", id, "done") }  func main() {     for i := 0; i < 5; i++ {         wg.Add(1)         go worker(i)     }     wg.Wait()     fmt.Println("All workers done") }`
+	func worker(id int) {
+	    defer wg.Done()
+	    fmt.Println("Worker", id, "started")
+	    time.Sleep(time.Second)
+	    fmt.Println("Worker", id, "done")
+	}
+
+	func main() {
+	    for i := 0; i < 5; i++ {
+	        wg.Add(1)
+	        go worker(i)
+	    }
+	    wg.Wait()
+	    fmt.Println("All workers done")
+	}
+
 
 **应用场景**：
 

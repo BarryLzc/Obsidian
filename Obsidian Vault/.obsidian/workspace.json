@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/linux shell排查命令.md",
+                "file": "Golang/并发编程/golang协程问题排查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linux shell排查命令"
+              "title": "golang协程问题排查"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/linux shell排查命令.md",
+                "file": "Golang/并发编程/golang协程问题排查.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of linux shell排查命令"
+              "title": "Outline of golang协程问题排查"
             }
           }
         ],
@@ -168,8 +168,8 @@
   },
   "active": "de7ffe7557fe80e7",
   "lastOpenFiles": [
-    "Golang/并发编程/golang协程问题排查.md",
     "操作系统/linux shell排查命令.md",
+    "Golang/并发编程/golang协程问题排查.md",
     "操作系统/linux常规操作.md",
     "计算机网络/网段&子网掩码计算.md",
     "Pasted image 20250310164418.png",
