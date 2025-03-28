@@ -11,10 +11,14 @@
             "id": "8ec285ee3c072563",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "网关/JsonPath参数映射.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "JsonPath参数映射"
             }
           }
         ]
@@ -136,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作待办/2025-03-20.md",
+                "file": "网关/JsonPath参数映射.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-20"
+              "title": "Outline of JsonPath参数映射"
             }
           }
         ],
@@ -163,12 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee2571119bbb9350",
+  "active": "8ec285ee3c072563",
   "lastOpenFiles": [
+    "工作待办/2025-03-20.md",
+    "网关/JsonPath参数映射.md",
     "Untitled.canvas",
     "2025-03-28.md",
     "vim/常用指令.md",
-    "工作待办/2025-03-20.md",
     "工作待办",
     "server-less/技术调研报告.md",
     "操作系统/linux shell排查命令.md",
