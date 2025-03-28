@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b916071259341f6c",
+        "id": "250ef3f1c87dbe8c",
         "type": "tabs",
         "children": [
           {
-            "id": "eb3a134071896d35",
+            "id": "8ec285ee3c072563",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang/并发编程/golang协程问题排查.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "golang协程问题排查"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 507.5
   },
   "right": {
     "id": "bc2f17a6f8792d62",
@@ -140,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/并发编程/golang协程问题排查.md",
+                "file": "工作待办/2025-03-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of golang协程问题排查"
+              "title": "Outline of 2025-03-20"
             }
           }
         ],
@@ -154,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,12 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb3a134071896d35",
+  "active": "ee2571119bbb9350",
   "lastOpenFiles": [
-    "架构设计/集群部署.md",
-    "Golang/并发编程/golang协程问题排查.md",
-    "架构设计",
+    "Untitled.canvas",
+    "2025-03-28.md",
+    "vim/常用指令.md",
+    "工作待办/2025-03-20.md",
+    "工作待办",
+    "server-less/技术调研报告.md",
     "操作系统/linux shell排查命令.md",
+    "Golang/Golang内存分析.md",
+    "系统的排查与检测/pprof排查内存泄漏.md",
+    "Golang/并发编程/golang协程问题排查.md",
+    "架构设计/集群部署.md",
+    "架构设计",
     "操作系统/linux常规操作.md",
     "计算机网络/网段&子网掩码计算.md",
     "Pasted image 20250310164418.png",
@@ -198,22 +203,13 @@
     "人工智能/机器学习/半监督学习.md",
     "人工智能/pytorch管理.md",
     "人工智能/Stable Diffusion 模型工作逻辑.md",
-    "人工智能/深度学习",
     "人工智能/嵌入向量.md",
-    "人工智能/向量.md",
-    "人工智能/计算机视觉.md",
-    "人工智能/显卡.md",
-    "人工智能/算力&内存带宽&内存容量和通信数据量的计算.md",
-    "操作系统/实时操作系统.md",
-    "操作系统/嵌入式操作系统.md",
-    "操作系统/信号量.md",
     "Screen Shot 2025-02-11 at 20.43.28.png",
     "Screen Shot 2025-02-11 at 20.34.31.png",
     "Screen Shot 2024-09-22 at 17.27.32 1.png",
     "Screen Shot 2024-09-22 at 17.27.32.png",
     "Screen Shot 2024-09-22 at 17.27.26.png",
     "Screen Shot 2024-09-22 at 17.20.38.png",
-    "Screen Shot 2024-09-22 at 17.14.25.png",
-    "Untitled.canvas"
+    "Screen Shot 2024-09-22 at 17.14.25.png"
   ]
 }

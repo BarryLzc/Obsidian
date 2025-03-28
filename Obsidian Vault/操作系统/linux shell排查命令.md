@@ -11,7 +11,6 @@ free -h                         # 查看内存使用情况
 vmstat 1 10                 # 统计CPU、内存、I/O情况 
 cat /proc/meminfo     # 查看详细内存信息
 
-
 #### **磁盘使用情况**
 df -h                  # 查看磁盘分区使用情况
 du -sh /path     # 查看目录大小
@@ -23,7 +22,7 @@ lsblk                 # 查看磁盘分区结构
 
 ### **2. 进程与线程**
 
-ps aux                         # 查看所有进程
+ps -aux                         # 查看所有进程
 ps -ef | grep xxx        # 查询某个进程
 pstree -p                    # 以树形展示进程
 pidstat -p PID 1         # 监控某个进程的资源占用（需安装sysstat）
