@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd1e94a3f184632",
+        "id": "3bbad249cf0edd9d",
         "type": "tabs",
         "children": [
           {
-            "id": "f63e112d0bba6b74",
+            "id": "85e8c56d440e2a8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学与经济管理/预测/博弈论.md",
+                "file": "交易/交易笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "博弈论"
+              "title": "交易笔记"
             }
           }
         ]
@@ -167,12 +167,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f63e112d0bba6b74",
+  "active": "ee2571119bbb9350",
   "lastOpenFiles": [
+    "交易/交易笔记.md",
+    "交易",
+    "网关/JsonPath参数映射.md",
+    "数学与经济管理/预测/博弈论.md",
     "Screen Shot 2025-02-11 at 20.34.31.png",
     "Screen Shot 2025-02-11 at 20.43.28.png",
     "Screen Shot 2025-04-12 at 16.29.42.png",
-    "数学与经济管理/预测/博弈论.md",
     "市场竞争.png",
     "囚徒困境.png",
     "数学与经济管理/运筹方法/预测与决策.md",
@@ -202,7 +205,6 @@
     "软件工程/设计模式/分类/结构型模式.md",
     "软件工程/设计模式/分类/创建型模式.md",
     "redis/redis的十种常用场景.md",
-    "网关/JsonPath参数映射.md",
     "工作待办/2025-03-20.md",
     "Untitled.canvas",
     "2025-03-28.md",
@@ -212,7 +214,6 @@
     "Pasted image 20250310164410.png",
     "Screen Shot 2024-09-22 at 17.06.18 1.png",
     "软件工程/设计模式/分类",
-    "软件工程/设计模式",
     "Screen Shot 2024-09-22 at 17.27.32 1.png",
     "Screen Shot 2024-09-22 at 17.27.32.png"
   ]
