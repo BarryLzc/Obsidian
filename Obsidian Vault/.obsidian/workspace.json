@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "250ef3f1c87dbe8c",
+        "id": "8dd1e94a3f184632",
         "type": "tabs",
         "children": [
           {
-            "id": "8ec285ee3c072563",
+            "id": "f63e112d0bba6b74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件工程/设计模式/分类/行为型模式.md",
+                "file": "数学与经济管理/预测/博弈论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "行为型模式"
+              "title": "博弈论"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 273.5
   },
   "right": {
     "id": "bc2f17a6f8792d62",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/GOPATH.md",
+                "file": "数学与经济管理/预测/博弈论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GOPATH"
+              "title": "Backlinks for 博弈论"
             }
           },
           {
@@ -149,8 +149,7 @@
               "title": "Outline of JsonPath参数映射"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,13 +163,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8ec285ee3c072563",
+  "active": "f63e112d0bba6b74",
   "lastOpenFiles": [
-    "计算机网络/DNS.md",
+    "Screen Shot 2025-02-11 at 20.34.31.png",
+    "Screen Shot 2025-02-11 at 20.43.28.png",
+    "Screen Shot 2025-04-12 at 16.29.42.png",
+    "数学与经济管理/预测/博弈论.md",
+    "市场竞争.png",
+    "囚徒困境.png",
+    "数学与经济管理/运筹方法/预测与决策.md",
+    "数学与经济管理/图论应用/网络与最大流量.md",
+    "数学与经济管理/预测",
+    "数学与经济管理/Untitled.md",
+    "数学与经济管理/图论应用/最短路径.md",
+    "数学与经济管理/图论应用/最小生成树.md",
+    "Excalidraw/Drawing 2025-04-12 14.20.46.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-12 14.05.18.excalidraw.md",
+    "Excalidraw/7栋房屋燃气管道间的间距.md",
+    "Excalidraw",
+    "数学与经济管理/数学建模",
+    "数学与经济管理/运筹方法/动态规划.md",
+    "数学与经济管理/运筹方法/线性规划.md",
+    "数学与经济管理/运筹方法/关键路径法.md",
+    "数学与经济管理/运筹方法",
+    "数学与经济管理/图论应用",
+    "基础算法/数组/移除元素.md",
+    "数学与经济管理",
+    "基础算法/数组/数组最小的子数组.md",
+    "基础算法/数组/有序数组的平方.md",
+    "基础算法/数组/螺旋矩阵.md",
+    "基础算法/排序算法/快速排序算法.md",
     "软件工程/设计模式/分类/行为型模式.md",
+    "计算机网络/DNS.md",
     "软件工程/设计模式/分类/结构型模式.md",
     "软件工程/设计模式/分类/创建型模式.md",
     "redis/redis的十种常用场景.md",
@@ -178,43 +206,14 @@
     "工作待办/2025-03-20.md",
     "Untitled.canvas",
     "2025-03-28.md",
-    "vim/常用指令.md",
     "工作待办",
-    "server-less/技术调研报告.md",
-    "操作系统/linux shell排查命令.md",
-    "Golang/Golang内存分析.md",
-    "系统的排查与检测/pprof排查内存泄漏.md",
-    "Golang/并发编程/golang协程问题排查.md",
-    "架构设计/集群部署.md",
     "架构设计",
-    "操作系统/linux常规操作.md",
-    "计算机网络/网段&子网掩码计算.md",
     "Pasted image 20250310164418.png",
     "Pasted image 20250310164410.png",
-    "软件工程/设计模式/模式的分类.md",
-    "软件工程/设计原则.md",
     "Screen Shot 2024-09-22 at 17.06.18 1.png",
     "软件工程/设计模式/分类",
-    "人工智能/机器学习/监督学习.md",
-    "人工智能/机器学习/成本函数（cost function）.md",
-    "软件工程/设计模式/设计模式概述.md",
     "软件工程/设计模式",
-    "软件工程",
-    "Golang/并发编程",
-    "网关/限流",
-    "网关/gql",
-    "网关/rest",
-    "网关",
-    "人工智能/三个月学习规划.md",
-    "人工智能/机器学习/非监督学习.md",
-    "人工智能/机器学习/半监督学习.md",
-    "人工智能/pytorch管理.md",
-    "Screen Shot 2025-02-11 at 20.43.28.png",
-    "Screen Shot 2025-02-11 at 20.34.31.png",
     "Screen Shot 2024-09-22 at 17.27.32 1.png",
-    "Screen Shot 2024-09-22 at 17.27.32.png",
-    "Screen Shot 2024-09-22 at 17.27.26.png",
-    "Screen Shot 2024-09-22 at 17.20.38.png",
-    "Screen Shot 2024-09-22 at 17.14.25.png"
+    "Screen Shot 2024-09-22 at 17.27.32.png"
   ]
 }
