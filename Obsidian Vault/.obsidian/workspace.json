@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3bbad249cf0edd9d",
+        "id": "b02589ce34f96436",
         "type": "tabs",
         "children": [
           {
-            "id": "85e8c56d440e2a8f",
+            "id": "a48464ff0090e06b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "交易/交易笔记.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "交易笔记"
+              "title": "New tab"
             }
           }
         ]
@@ -167,10 +163,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "85e8c56d440e2a8f",
+  "active": "ee2571119bbb9350",
   "lastOpenFiles": [
-    "数学与经济管理/图论应用/网络与最大流量.md",
+    "Untitled.canvas",
+    "2025-06-06.md",
+    "2025-04-29.md",
+    "Excalidraw/Drawing 2025-06-06 16.10.55.excalidraw.md",
+    "Untitled 1.canvas",
+    "计算机网络/对称加密vs非对称加密.md",
+    "MQ/pulsar vs rocketMQ.md",
+    "计算机网络/DNS.md",
+    "计算机网络/CDN.md",
+    "redis/redis的十种常用场景.md",
+    "人工智能/pytorch管理.md",
     "交易/交易笔记.md",
+    "数学与经济管理/图论应用/网络与最大流量.md",
     "交易",
     "网关/JsonPath参数映射.md",
     "数学与经济管理/预测/博弈论.md",
@@ -197,17 +204,6 @@
     "基础算法/数组/移除元素.md",
     "数学与经济管理",
     "基础算法/数组/数组最小的子数组.md",
-    "基础算法/数组/有序数组的平方.md",
-    "基础算法/数组/螺旋矩阵.md",
-    "基础算法/排序算法/快速排序算法.md",
-    "软件工程/设计模式/分类/行为型模式.md",
-    "计算机网络/DNS.md",
-    "软件工程/设计模式/分类/结构型模式.md",
-    "软件工程/设计模式/分类/创建型模式.md",
-    "redis/redis的十种常用场景.md",
-    "工作待办/2025-03-20.md",
-    "Untitled.canvas",
-    "2025-03-28.md",
     "工作待办",
     "架构设计",
     "Pasted image 20250310164418.png",
