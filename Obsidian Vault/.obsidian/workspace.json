@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "监控系统架构设计/ClickHouse数据存储调优.md",
+                "file": "redis/redis的十种常用场景.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ClickHouse数据存储调优"
+              "title": "redis的十种常用场景"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "1bd36a65ffb5ccba",
   "lastOpenFiles": [
-    "监控系统架构设计/ClickHouse数据压缩.md",
     "监控系统架构设计/ClickHouse数据存储调优.md",
+    "监控系统架构设计/ClickHouse数据压缩.md",
     "监控系统架构设计/ClickHouse索引优化.md",
     "监控系统架构设计/指标监控架构设计.md",
     "架构设计/Backend For Frontend (BFF).md",
