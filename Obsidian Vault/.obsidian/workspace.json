@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "监控系统架构设计/ClickHouse数据压缩.md",
+                "file": "监控系统架构设计/ClickHouse数据存储调优.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ClickHouse数据压缩"
+              "title": "ClickHouse数据存储调优"
             }
           }
         ]
@@ -169,10 +169,10 @@
   },
   "active": "1bd36a65ffb5ccba",
   "lastOpenFiles": [
+    "监控系统架构设计/ClickHouse数据压缩.md",
     "监控系统架构设计/ClickHouse数据存储调优.md",
     "监控系统架构设计/ClickHouse索引优化.md",
     "监控系统架构设计/指标监控架构设计.md",
-    "监控系统架构设计/ClickHouse数据压缩.md",
     "架构设计/Backend For Frontend (BFF).md",
     "Service广播服务和BFF的对接调用链路.png",
     "生态&主站内回调链路说明.png",
