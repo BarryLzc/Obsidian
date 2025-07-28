@@ -50,3 +50,4 @@ Google 的 Firebase/Firestore 的支持其实是 Firebase 本身提供的，并�
 
 reference:
 1. https://jolestar.com/serverless-faas-current-status-and-future/
+2. [[serverless论文阅读]]
