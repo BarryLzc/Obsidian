@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "mysql使用注意事项"
             }
+          },
+          {
+            "id": "a956e9992640987f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang/golang网络框架/gin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gin"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,8 +182,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fd2aef822da5501f",
+  "active": "ee2571119bbb9350",
   "lastOpenFiles": [
+    "golang非法时间报错.png",
+    "Gin接收error源码.png.md",
+    "Golang/golang网络框架/gin.md",
+    "gin接收error源码.png",
+    "Golang/rpc框架/grpc.md",
+    "Golang/并发编程/golang协程问题排查.md",
+    "Golang/rpc框架",
+    "Golang/golang网络框架/fast-http.md",
+    "数据库/mysql使用注意事项.md",
+    "Golang/golang网络框架",
     "软件工程/设计原则.md",
     "2025-07-28.md",
     "Pasted image 20250310164418.png",
@@ -193,19 +218,11 @@
     "Golang/浅拷贝(Shallow Copy)和深拷贝(Deep Copy)的区别.md",
     "Golang/Go 的构建环境或构建体系相关配置项.md",
     "Golang/go env配置.md",
-    "Golang/gorm源码阅读.md",
-    "Golang/GoPlugin热加载.md",
-    "Golang/反射（reflect）.md",
-    "Golang/Golang内存分析.md",
-    "Golang/并发编程/golang协程问题排查.md",
-    "MQ/Pulsar/独占模式（Exclusive ）.md",
-    "Projetcs/cahoot/游戏主题创建技术方案.md",
     "Service广播服务和BFF的对接调用链路.png",
     "生态&主站内回调链路说明.png",
     "Screen Shot 2024-09-22 at 17.27.26.png",
     "Screen Shot 2024-09-22 at 17.27.32 1.png",
     "Screen Shot 2025-02-11 at 20.34.31.png",
-    "BFF边界.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "交易",
@@ -214,8 +231,6 @@
     "数学与经济管理/数学建模",
     "数学与经济管理/运筹方法",
     "数学与经济管理/图论应用",
-    "数学与经济管理",
-    "工作待办",
-    "架构设计"
+    "数学与经济管理"
   ]
 }
