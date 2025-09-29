@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "71e5786001f2370b",
+        "id": "b8b04ad8d4bd44ce",
         "type": "tabs",
         "children": [
           {
-            "id": "e12a7d688e602700",
+            "id": "f2ddbf0a2007abfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件工程/架构优化/go系统设计.md",
+                "file": "人工智能/机器学习/监督学习/决策树算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "go系统设计"
+              "title": "决策树算法"
             }
           }
         ]
@@ -168,25 +168,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e12a7d688e602700",
+  "active": "f2ddbf0a2007abfc",
   "lastOpenFiles": [
+    "信息增益计算举例.png",
+    "信息增益公式.png",
+    "决策树递归.png",
+    "人工智能/半监督学习算法/半监督学习.md",
+    "人工智能/机器学习/监督学习/决策树算法.md",
+    "人工智能/机器学习/非监督学习/非监督学习.md",
+    "人工智能/机器学习/监督学习/监督学习.md",
+    "人工智能/半监督学习算法",
+    "人工智能/机器学习/监督学习",
+    "人工智能/机器学习/成本函数（cost function）.md",
+    "人工智能/机器学习/非监督学习",
+    "数据库/mysql使用注意事项.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "人工智能/三个月学习规划.md",
+    "软件工程/架构优化/go系统设计.md",
+    "2025-09-14.md",
     "after_refactor.png",
     "after_refactor_time.png",
     "before_refactor.png",
     "before_refactor_time.png",
     "Untitled 4.base",
-    "软件工程/架构优化/go系统设计.md",
     "软件工程/架构优化",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 5.base",
     "Untitled 6.base",
-    "Untitled 1.base",
-    "Untitled 8.base",
-    "Untitled.canvas",
-    "Untitled.base",
-    "2025-09-14.md",
-    "Untitled 7.base",
     "架构设计/Backend For Frontend (BFF).md",
     "BFF边界.png",
     "Golang/GOPATH.md",
@@ -198,7 +208,6 @@
     "Golang/浅拷贝(Shallow Copy)和深拷贝(Deep Copy)的区别.md",
     "Golang/反射（reflect）.md",
     "redis/redis的十种常用场景.md",
-    "数据库/mysql使用注意事项.md",
     "redis/缓存&数据库不一致问题解决.md",
     "连表查询.png",
     "redis/redis本地调试指令.md",
@@ -208,15 +217,6 @@
     "Gin接收error源码.png.md",
     "gin接收error源码.png",
     "Golang/rpc框架/grpc.md",
-    "Golang/并发编程/golang协程问题排查.md",
-    "Golang/golang网络框架/fast-http.md",
-    "软件工程/设计原则.md",
-    "2025-07-28.md",
-    "Pasted image 20250310164418.png",
-    "Pasted image 20250310164410.png",
-    "GoRoot_GoModules_GoEnv概览.png",
-    "MQ/消息队列的常见问题总结.md",
-    "计算机网络/Cookie.md",
     "Untitled 1.canvas"
   ]
 }
