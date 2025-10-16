@@ -10,7 +10,7 @@ GOPATH 是 Go 语言中使用的一个环境变量， 它使用绝对路径提
 	  c.  sumdb: go get命令缓存下载的checksum数据存放的位
   3. src 存放golang项目代码的位置
 
-![[Screen Shot 2024-06-25 at 12.01.31.png]]
+![[GOPARH目录.png]]
 
 ***问题和缺点***
 ```

@@ -9,9 +9,9 @@
 	- 强依赖 AWS 自己的服务，日后迁移要大改脚本
 4. AWS serverless架构图
 	- Serverless Web Application Architecture with AWS 1
-	![[Screen Shot 2024-09-22 at 17.27.26.png]]
+	![[AWS_FaaS_mobile.png]]
 	- Serverless Web Application Architecture with AWS 2
-	![[Screen Shot 2024-09-22 at 17.27.32 1.png]]
+	![[AWS_FaaS_web.png]]
 
 
 
