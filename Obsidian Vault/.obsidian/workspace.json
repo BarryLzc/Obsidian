@@ -11,10 +11,14 @@
             "id": "9c657d64d1204ba3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "架构设计/高可用系统设计&原理/分布式共识与算法.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "分布式共识与算法"
             }
           }
         ]
@@ -164,14 +168,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee2571119bbb9350",
+  "active": "9c657d64d1204ba3",
   "lastOpenFiles": [
+    "架构设计/高可用系统设计&原理/分布式共识与算法.md",
+    "操作系统/操作系统.md",
+    "架构设计/高可用系统设计&原理",
+    "os_working_process.png",
+    "目录.base",
     "Untitled.base",
     "Untitled 1.base",
     "Golang/gorm源码阅读.md",
     "数据库/mysql使用注意事项.md",
     "gorm_save_point源码阅读笔记.png",
-    "Screen Shot 2025-02-11 at 20.34.31.png",
     "serverless厂商progarmming语言支持对比.png",
     "Screen Shot 2024-09-22 at 17.06.18.png",
     "server-less/serverless学习笔记.md",
@@ -197,7 +205,6 @@
     "server-less/技术调研报告.md",
     "计算机网络/DNS.md",
     "Untitled.canvas",
-    "目录.base",
     "计算机网络/DHCP（动态主机配置协议）.md",
     "人工智能/机器学习/监督学习/决策树算法.md",
     "人工智能/半监督学习算法/半监督学习.md",
@@ -207,12 +214,9 @@
     "人工智能/机器学习/监督学习",
     "人工智能/机器学习/成本函数（cost function）.md",
     "人工智能/机器学习/非监督学习",
-    "人工智能/三个月学习规划.md",
     "Untitled 4.base",
     "软件工程/架构优化",
     "Untitled 3.base",
-    "Untitled 2.base",
-    "Untitled 5.base",
     "Untitled 1.canvas"
   ]
 }
