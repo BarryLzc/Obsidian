@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd4117a060eaba1",
+        "id": "6e994abffe4e036a",
         "type": "tabs",
         "children": [
           {
-            "id": "9c657d64d1204ba3",
+            "id": "f049ce0f78a3d72c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构设计/高可用系统设计&原理/分布式共识与算法.md",
+                "file": "架构设计/交易核心系统设计/ABA问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分布式共识与算法"
+              "title": "ABA问题"
             }
           }
         ]
@@ -168,8 +168,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9c657d64d1204ba3",
+  "active": "ee2571119bbb9350",
   "lastOpenFiles": [
+    "计算机网络/对称加密vs非对称加密.md",
+    "架构设计/交易核心系统设计/ABA问题.md",
+    "架构设计/交易核心系统设计",
+    "计算机网络/DNS.md",
     "架构设计/高可用系统设计&原理/分布式共识与算法.md",
     "操作系统/操作系统.md",
     "架构设计/高可用系统设计&原理",
@@ -203,20 +207,16 @@
     "servless_ manufacturers_operation_ maintenance.png",
     "Screen Shot 2024-09-22 at 17.27.32.png",
     "server-less/技术调研报告.md",
-    "计算机网络/DNS.md",
     "Untitled.canvas",
     "计算机网络/DHCP（动态主机配置协议）.md",
     "人工智能/机器学习/监督学习/决策树算法.md",
     "人工智能/半监督学习算法/半监督学习.md",
     "人工智能/机器学习/非监督学习/非监督学习.md",
-    "人工智能/机器学习/监督学习/监督学习.md",
     "人工智能/半监督学习算法",
     "人工智能/机器学习/监督学习",
-    "人工智能/机器学习/成本函数（cost function）.md",
     "人工智能/机器学习/非监督学习",
     "Untitled 4.base",
     "软件工程/架构优化",
-    "Untitled 3.base",
     "Untitled 1.canvas"
   ]
 }
