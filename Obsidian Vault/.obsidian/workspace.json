@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e994abffe4e036a",
+        "id": "476b84f03adc04b9",
         "type": "tabs",
         "children": [
           {
-            "id": "f049ce0f78a3d72c",
+            "id": "41b9a23747c2ce98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/微内核操作系统.md",
+                "file": "数据库/线上死锁问题解决方案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "微内核操作系统"
+              "title": "线上死锁问题解决方案"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 437.5
   },
   "right": {
     "id": "bc2f17a6f8792d62",
@@ -168,8 +168,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f049ce0f78a3d72c",
+  "active": "41b9a23747c2ce98",
   "lastOpenFiles": [
+    "数据库/线上死锁问题解决方案.md",
+    "操作系统/实时操作系统.md",
     "操作系统/嵌入式操作系统.md",
     "操作系统/微内核操作系统.md",
     "架构设计/交易核心系统设计/分布式事务的实现/SAGA.md",
@@ -208,11 +210,9 @@
     "Golang/go env配置.md",
     "Golang/rpc框架/grpc.md",
     "Golang/golang网络框架/gin.md",
-    "Golang/golang网络框架/fast-http.md",
     "GOPARH目录.png",
     "servless_ manufacturers_operation_ maintenance.png",
     "Screen Shot 2024-09-22 at 17.27.32.png",
-    "server-less/技术调研报告.md",
     "Untitled.canvas",
     "人工智能/半监督学习算法",
     "人工智能/机器学习/监督学习",
