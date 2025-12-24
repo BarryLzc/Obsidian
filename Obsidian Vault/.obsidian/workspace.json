@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/对称加密vs非对称加密.md",
+                "file": "计算机网络/DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "对称加密vs非对称加密"
+              "title": "DNS"
             }
           }
         ]
@@ -168,11 +168,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee2571119bbb9350",
+  "active": "4dd97ddad00e92c0",
   "lastOpenFiles": [
+    "计算机网络/DHCP（动态主机配置协议）.md",
+    "计算机网络/Cookie.md",
+    "计算机网络/CDN.md",
+    "计算机网络/对称加密vs非对称加密.md",
     "架构设计/DDD/CQRS.md",
     "Untitled.base",
-    "计算机网络/对称加密vs非对称加密.md",
     "架构设计/DDD/事件溯源Event Sourcing.md",
     "架构设计/DDD",
     "数据库/mysql使用注意事项.md",
@@ -208,8 +211,6 @@
     "server-less/serverless论文阅读.md",
     "serverless_open_source_competitive_advantage_analysis.png",
     "Golang/GoPlugin热加载.md",
-    "Golang/GOPATH.md",
-    "Golang/Golang内存分析.md",
     "GOPARH目录.png",
     "servless_ manufacturers_operation_ maintenance.png",
     "Screen Shot 2024-09-22 at 17.27.32.png",
