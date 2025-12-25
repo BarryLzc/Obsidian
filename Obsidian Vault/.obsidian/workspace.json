@@ -183,11 +183,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee2571119bbb9350",
+  "active": "f3205faa29e92e49",
   "lastOpenFiles": [
-    "Java/Natty框架",
     "Java/Java的引用类型和GC.md",
     "Java/ThreadLocal.md",
+    "Java/Natty框架",
     "Golang/浅拷贝(Shallow Copy)和深拷贝(Deep Copy)的区别.md",
     "Java",
     "计算机网络/DHCP（动态主机配置协议）.md",
@@ -231,7 +231,6 @@
     "GOPARH目录.png",
     "servless_ manufacturers_operation_ maintenance.png",
     "Untitled.canvas",
-    "人工智能/半监督学习算法",
     "Untitled 1.canvas"
   ]
 }
