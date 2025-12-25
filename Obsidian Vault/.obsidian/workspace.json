@@ -11,13 +11,32 @@
             "id": "d3a3e2dede8b2cd2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java的引用类型和GC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java的引用类型和GC"
+            }
+          },
+          {
+            "id": "f3205faa29e92e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/ThreadLocal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ThreadLocal"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,14 +183,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d3a3e2dede8b2cd2",
+  "active": "ee2571119bbb9350",
   "lastOpenFiles": [
+    "Java/Natty框架",
+    "Java/Java的引用类型和GC.md",
+    "Java/ThreadLocal.md",
+    "Golang/浅拷贝(Shallow Copy)和深拷贝(Deep Copy)的区别.md",
+    "Java",
+    "计算机网络/DHCP（动态主机配置协议）.md",
     "计算机网络/DNS记录类型.md",
     "计算机网络/DNS.md",
     "计算机网络/应用发起请求的完成网络流程.md",
     "DNS与BGP.md",
     "DNS分层.png",
-    "计算机网络/DHCP（动态主机配置协议）.md",
     "计算机网络/Cookie.md",
     "计算机网络/CDN.md",
     "计算机网络/对称加密vs非对称加密.md",
@@ -201,10 +225,6 @@
     "gorm_save_point源码阅读笔记.png",
     "serverless厂商progarmming语言支持对比.png",
     "Screen Shot 2024-09-22 at 17.06.18.png",
-    "server-less/serverless学习笔记.md",
-    "server-less/serverless开发笔记.md",
-    "server-less/serverless-debug.md",
-    "server-less/s3静态页面调用serverless api.md",
     "serverless厂商触发器支持对比.png",
     "service广播服务和BFF的对接调用链路.png",
     "serverless_open_source_competitive_advantage_analysis.png",
@@ -212,7 +232,6 @@
     "servless_ manufacturers_operation_ maintenance.png",
     "Untitled.canvas",
     "人工智能/半监督学习算法",
-    "人工智能/机器学习/监督学习",
     "Untitled 1.canvas"
   ]
 }
