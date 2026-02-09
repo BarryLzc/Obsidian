@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ba869541abdce311",
+        "id": "58bdb415443994e9",
         "type": "tabs",
         "children": [
           {
-            "id": "d3a3e2dede8b2cd2",
+            "id": "b307a84ade9b7fd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/EBPF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EBPF"
-            }
-          },
-          {
-            "id": "47448a38edbdb80b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rust Aya eBPF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rust Aya eBPF"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,9 +164,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "47448a38edbdb80b",
+  "active": "b307a84ade9b7fd3",
   "lastOpenFiles": [
-    "rust Aya eBPF.md",
+    "数据库/mysql使用注意事项.md",
+    "数据库/锁的使用.md",
+    "间隙锁.md",
+    "数据库/重复索引.md",
+    "数据库/线上死锁问题解决方案.md",
+    "数据库/事物隔离级别.md",
+    "数据库/Timestamp NULL 的非标准行为.md",
+    "数据库/RR级别下的幻读.md",
+    "系统的排查与检测/rust Aya eBPF.md",
+    "serverless&FaaS架构.png",
+    "serverless_open_source_competitive_advantage_analysis.png",
+    "Untitled.base",
+    "连表查询.png",
     "操作系统/EBPF.md",
     "操作系统/linux常规操作.md",
     "Golang/go env配置.md",
@@ -205,17 +198,7 @@
     "计算机网络/Cookie.md",
     "计算机网络/CDN.md",
     "计算机网络/对称加密vs非对称加密.md",
-    "架构设计/DDD/CQRS.md",
-    "Untitled.base",
-    "架构设计/DDD/事件溯源Event Sourcing.md",
     "架构设计/DDD",
-    "数据库/mysql使用注意事项.md",
-    "数据库/锁的使用.md",
-    "数据库/线上死锁问题解决方案.md",
-    "操作系统/实时操作系统.md",
-    "操作系统/嵌入式操作系统.md",
-    "操作系统/微内核操作系统.md",
-    "架构设计/交易核心系统设计/分布式事务的实现/SAGA.md",
     "架构设计/交易核心系统设计/分布式事务的实现/幂等性实现",
     "架构设计/交易核心系统设计/分布式事务的实现",
     "架构设计/交易核心系统设计",
@@ -228,9 +211,6 @@
     "Screen Shot 2024-09-22 at 17.06.18.png",
     "serverless厂商触发器支持对比.png",
     "service广播服务和BFF的对接调用链路.png",
-    "serverless_open_source_competitive_advantage_analysis.png",
-    "GOPARH目录.png",
-    "servless_ manufacturers_operation_ maintenance.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
