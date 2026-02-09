@@ -11,13 +11,32 @@
             "id": "b307a84ade9b7fd3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "数据库/mysql使用注意事项.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mysql使用注意事项"
+            }
+          },
+          {
+            "id": "5c093822406f933f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "回表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "回表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,16 +183,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b307a84ade9b7fd3",
+  "active": "5c093822406f933f",
   "lastOpenFiles": [
     "数据库/mysql使用注意事项.md",
-    "数据库/锁的使用.md",
-    "间隙锁.md",
-    "数据库/重复索引.md",
+    "回表.md",
     "数据库/线上死锁问题解决方案.md",
-    "数据库/事物隔离级别.md",
+    "数据库/重复索引.md",
+    "数据库/锁的使用.md",
     "数据库/Timestamp NULL 的非标准行为.md",
     "数据库/RR级别下的幻读.md",
+    "数据库/事物隔离级别.md",
+    "间隙锁.md",
     "系统的排查与检测/rust Aya eBPF.md",
     "serverless&FaaS架构.png",
     "serverless_open_source_competitive_advantage_analysis.png",
