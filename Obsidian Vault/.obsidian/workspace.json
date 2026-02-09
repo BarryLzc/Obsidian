@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/mysql存储引擎/其它引擎.md",
+                "file": "数据库/mysql存储结构/mysql存储结构优化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "其它引擎"
+              "title": "mysql存储结构优化"
+            }
+          },
+          {
+            "id": "366e04c743305ce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库/mysql存储结构/扇出.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "扇出"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,16 +211,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e462571feb2ea078",
+  "active": "ee2571119bbb9350",
   "lastOpenFiles": [
-    "数据库/mysql存储引擎/InnoDB.md",
+    "数据库/mysql存储结构/扇出.md",
+    "数据库/mysql存储结构/mysql存储结构优化.md",
+    "数据库/mysql存储结构/mysql的存储结构概述.md",
+    "数据库/mysql存储结构/mysql数据存储量计算推演.md",
     "数据库/mysql存储引擎/其它引擎.md",
+    "数据库/mysql存储引擎/InnoDB.md",
     "数据库/mysql存储引擎/MyISAM.md",
     "数据库/索引/重复索引.md",
     "数据库/mysql存储引擎",
     "数据库/索引/回表.md",
     "数据库/mysql使用注意事项.md",
-    "数据库/mysql存储结构/mysql的存储结构概述.md",
     "数据库/锁",
     "数据库/索引",
     "数据库/事物",
@@ -214,8 +231,6 @@
     "计算机网络/DNS与BGP.md",
     "数据库/mysql存储结构",
     "数据库/锁/间隙锁.md",
-    "数据库/mysql存储结构/mysql存储结构优化.md",
-    "数据库/mysql存储结构/mysql数据存储量计算推演.md",
     "数据库/锁/线上死锁问题解决方案.md",
     "数据库/锁/锁的使用.md",
     "数据库/Timestamp NULL 的非标准行为.md",
@@ -234,7 +249,6 @@
     "Golang/并发编程/golang协程问题排查.md",
     "Java/ThreadLocal.md",
     "Java/Natty框架",
-    "Golang/浅拷贝(Shallow Copy)和深拷贝(Deep Copy)的区别.md",
     "Java",
     "DNS分层.png",
     "架构设计/DDD",
