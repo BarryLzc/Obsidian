@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e272629c938e7d9e",
+        "id": "c5d7add71e82051b",
         "type": "tabs",
         "children": [
           {
-            "id": "5c0574eba7636152",
+            "id": "5a907dcdd9fe11f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/几何与拓扑/拓扑（Topology）.md",
+                "file": "数学/向量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拓扑（Topology）"
+              "title": "向量"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "after",
+                "query": "概述",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,6 +170,13 @@
   },
   "active": "ee2571119bbb9350",
   "lastOpenFiles": [
+    "Untitled.base",
+    "人工智能/机器学习/深度学习/计算机视觉/CV概述.md",
+    "人工智能/机器学习/深度学习/AIGC/AIGC概述.md",
+    "人工智能/机器学习/半监督学习/半监督学习概述.md",
+    "人工智能/机器学习/深度学习/基础概念/嵌入向量.md",
+    "数学/向量.md",
+    "数学/几何与拓扑/拓扑（Topology）.md",
     "数学/应用数学",
     "数学/离散数学",
     "数学/微积分",
@@ -204,18 +211,10 @@
     "系统的排查与检测/pprof排查内存泄漏.md",
     "Golang/golang网络框架/fast-http.md",
     "Golang/rpc框架/grpc.md",
-    "Golang/并发编程/golang协程问题排查.md",
-    "Golang/浅拷贝(Shallow Copy)和深拷贝(Deep Copy)的区别.md",
-    "Golang/反射（reflect）.md",
-    "Golang/Init函数顺序问题.md",
-    "Golang/gorm源码阅读.md",
-    "Golang/GoPlugin热加载.md",
-    "Untitled.base",
     "架构设计/BFF/Untitled",
     "架构设计/BFF",
     "Golang/图片/GOPARH目录.png",
     "Golang/图片/GoRoot_GoModules_GoEnv概览.png",
-    "Golang/图片",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
