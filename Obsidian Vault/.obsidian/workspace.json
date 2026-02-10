@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a0eeb3dce41bbf5",
+        "id": "e272629c938e7d9e",
         "type": "tabs",
         "children": [
           {
-            "id": "e0d4c38cf4ea6aeb",
+            "id": "5c0574eba7636152",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "人工智能/AIOps/美团AIOps图例/相似事件能力结果展示.png"
+                "file": "数学/几何与拓扑/拓扑（Topology）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "相似事件能力结果展示"
+              "icon": "lucide-file",
+              "title": "拓扑（Topology）"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 327.5
   },
   "right": {
     "id": "bc2f17a6f8792d62",
@@ -168,8 +170,15 @@
   },
   "active": "ee2571119bbb9350",
   "lastOpenFiles": [
-    "人工智能/AIOps/美团AIOps架构设计.md",
+    "数学/应用数学",
+    "数学/离散数学",
+    "数学/微积分",
+    "数学/几何与拓扑",
+    "redis/redis manager.md",
+    "redis/redis本地调试指令.md",
+    "redis/缓存&数据库不一致问题解决.md",
     "人工智能/AIOps/美团AIOps图例/相似事件能力结果展示.png",
+    "人工智能/AIOps/美团AIOps架构设计.md",
     "人工智能/机器学习/监督学习/图片/信息增益计算举例.png",
     "人工智能/机器学习/监督学习/决策树算法.md",
     "人工智能/机器学习/监督学习/监督学习.md",
@@ -179,8 +188,8 @@
     "架构设计/BFF/回调链路说明.png",
     "架构设计/BFF/Backend For Frontend (BFF).md",
     "架构设计/BFF/BFF边界.png",
-    "数学与经济管理/预测/博弈论.md",
-    "数学与经济管理/预测/图片",
+    "数学/应用数学/博弈论.md",
+    "数学/应用数学/图片",
     "操作系统/图片/单体内核&微内核.png",
     "操作系统/图片/os_working_process.png",
     "操作系统/操作系统.md",
@@ -201,19 +210,12 @@
     "Golang/Init函数顺序问题.md",
     "Golang/gorm源码阅读.md",
     "Golang/GoPlugin热加载.md",
-    "Golang/GOPATH.md",
-    "Golang/Golang内存分析.md",
-    "Golang/go env配置.md",
-    "Golang/Go 的构建环境或构建体系相关配置项.md",
     "Untitled.base",
     "架构设计/BFF/Untitled",
     "架构设计/BFF",
     "Golang/图片/GOPARH目录.png",
     "Golang/图片/GoRoot_GoModules_GoEnv概览.png",
     "Golang/图片",
-    "数据库/图片",
-    "server-less/图片",
-    "计算机网络/图片",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
