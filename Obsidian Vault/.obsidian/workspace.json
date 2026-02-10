@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/机器学习/三个月学习规划.md",
+                "file": "人工智能/机器学习/机器学习三个月学习规划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "三个月学习规划"
+              "title": "机器学习三个月学习规划"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "237b723928f6f1e8",
   "lastOpenFiles": [
+    "人工智能/机器学习/机器学习三个月学习规划.md",
     "人工智能/Transformer/Transformer核心架构设计.md",
-    "人工智能/机器学习/三个月学习规划.md",
     "人工智能/机器学习/基础概念/数据集 (Dataset).md",
     "人工智能/机器学习/基础概念/机器学习基础术语.md",
     "ROC曲线.md",
