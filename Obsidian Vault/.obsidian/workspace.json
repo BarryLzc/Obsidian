@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "58bdb415443994e9",
+        "id": "f675199ae3bd238e",
         "type": "tabs",
         "children": [
           {
-            "id": "b9ddf06f652c58bc",
+            "id": "3aac19f8c59c56a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis/redis的常见问题/大Key问题.md",
+                "file": "人工智能/AIOps/美团AIOps架构设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大Key问题"
+              "title": "美团AIOps架构设计"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 389.5
   },
   "right": {
     "id": "bc2f17a6f8792d62",
@@ -168,11 +168,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b9ddf06f652c58bc",
+  "active": "3aac19f8c59c56a9",
   "lastOpenFiles": [
+    "人工智能/AIOps/美团AIOps图例/日志检测.png",
+    "人工智能/AIOps/美团AIOps图例/配置变更挖掘与识别.png",
+    "人工智能/AIOps/美团AIOps架构设计.md",
+    "相似事件能力结果展示.png",
+    "人工智能/AIOps/美团AIOps图例/事件建模过程.png",
+    "人工智能/AIOps/美团AIOps图例/事件数据结构.png",
+    "人工智能/AIOps/美团AIOps图例/相似事件算法流程.png",
+    "人工智能/AIOps/美团AIOps图例/指标异常维度定位流程图 1.png",
+    "人工智能/AIOps/美团AIOps图例/指标异常维度定位流程图.png",
+    "人工智能/AIOps/美团AIOps图例/雷达异常计算.png",
+    "人工智能/AIOps/美团AIOps图例/链路拓扑异常计算.png",
+    "人工智能/AIOps/美团AIOps图例",
+    "人工智能/AIOps",
+    "软件工程/设计原则.md",
+    "人工智能/计算机视觉.md",
+    "人工智能/三个月学习规划.md",
+    "MQ/消息队列的常见问题总结.md",
+    "redis/redis的常见问题/大Key问题.md",
     "redis/redis的常见问题/缓存的击穿、穿透、雪崩.md",
     "redis/redis的常见问题/热Key问题.md",
-    "redis/redis的常见问题/大Key问题.md",
     "redis/redis的常见问题/redis的常见问题.md",
     "数据库/mysql存储结构/mysql存储结构优化.md",
     "redis/缓存&数据库不一致问题解决.md",
@@ -196,26 +213,8 @@
     "数据库/Untitled.md",
     "计算机网络/DNS与BGP.md",
     "数据库/mysql存储结构",
-    "数据库/锁/间隙锁.md",
-    "数据库/锁/线上死锁问题解决方案.md",
-    "数据库/锁/锁的使用.md",
-    "数据库/Timestamp NULL 的非标准行为.md",
-    "数据库/事物/RR级别下的幻读.md",
-    "数据库/事物/事物隔离级别.md",
-    "serverless&FaaS架构.png",
-    "serverless_open_source_competitive_advantage_analysis.png",
     "Untitled.base",
-    "连表查询.png",
     "Java/Natty框架",
-    "Java",
-    "DNS分层.png",
-    "架构设计/DDD",
-    "os_working_process.png",
-    "gorm_save_point源码阅读笔记.png",
-    "serverless厂商progarmming语言支持对比.png",
-    "Screen Shot 2024-09-22 at 17.06.18.png",
-    "serverless厂商触发器支持对比.png",
-    "service广播服务和BFF的对接调用链路.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
