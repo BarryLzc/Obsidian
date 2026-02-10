@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1377cf427f32be85",
+            "id": "ac6aeff64eb02990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/基础概念/拓扑在AI中的运用.md",
+                "file": "人工智能/AIOps/美团AIOps架构设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拓扑在AI中的运用"
+              "title": "美团AIOps架构设计"
+            }
+          },
+          {
+            "id": "7f403ef9978b2a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "精确率.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "精确率"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,21 +183,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1377cf427f32be85",
+  "active": "7f403ef9978b2a01",
   "lastOpenFiles": [
-    "人工智能/基础概念/拓扑.md",
-    "人工智能/基础概念/拓扑在AI中的运用.md",
+    "人工智能/机器学习/半监督学习/概述.md",
+    "召回率.md",
+    "人工智能/AIOps/美团AIOps架构设计.md",
+    "精确率.md",
+    "人工智能/机器学习/三个月学习规划.md",
+    "人工智能/机器学习/基础概念",
+    "人工智能/机器学习/Untitled.md",
+    "人工智能/机器学习/深度学习/AIGC/概述.md",
+    "人工智能/Transformer/Transformer核心架构设计.md",
+    "人工智能/机器学习/深度学习/计算机视觉/概述.md",
+    "人工智能/机器学习/深度学习/计算机视觉",
+    "人工智能/机器学习/深度学习/AIGC/Stable Diffusion 模型工作逻辑.md",
+    "人工智能/AIGC/Untitled",
+    "人工智能/机器学习/深度学习/AIGC",
+    "人工智能/机器学习/深度学习/基础概念/RNN (Recurrent Neural Network) — 循环神经网络.md",
+    "人工智能/机器学习/深度学习/基础概念/CNN (Convolutional Neural Network) — 卷积神经网络.md",
+    "人工智能/机器学习/深度学习/基础概念/拓扑在AI中的运用.md",
+    "人工智能/Transformer",
+    "人工智能/机器学习/深度学习/基础概念/拓扑.md",
     "Java/书单.md",
     "人工智能/基础概念/Untitled/Untitled.md",
     "人工智能/基础概念/Untitled",
     "人工智能/机器学习/监督学习/监督学习.md",
-    "人工智能/基础概念",
+    "人工智能/机器学习/深度学习/基础概念",
     "人工智能/硬件",
     "人工智能/机器学习/非监督学习/非监督学习.md",
     "人工智能/机器学习/监督学习/决策树算法.md",
-    "人工智能/三个月学习规划.md",
     "人工智能/AIOps/阿里云智能诊断系统.md",
-    "人工智能/AIOps/美团AIOps架构设计.md",
     "人工智能/AIOps/Untitled",
     "人工智能/AIOps/美团AIOps图例/日志检测.png",
     "人工智能/AIOps/美团AIOps图例/配置变更挖掘与识别.png",
@@ -195,27 +225,12 @@
     "人工智能/AIOps/美团AIOps图例/雷达异常计算.png",
     "人工智能/AIOps/美团AIOps图例/链路拓扑异常计算.png",
     "人工智能/AIOps/美团AIOps图例",
-    "人工智能/AIOps",
     "软件工程/设计原则.md",
-    "人工智能/计算机视觉.md",
     "MQ/消息队列的常见问题总结.md",
     "redis/redis的常见问题/大Key问题.md",
     "redis/redis的常见问题/缓存的击穿、穿透、雪崩.md",
     "redis/redis的常见问题/热Key问题.md",
     "redis/redis的常见问题/redis的常见问题.md",
-    "数据库/mysql存储结构/mysql存储结构优化.md",
-    "redis/缓存&数据库不一致问题解决.md",
-    "redis/redis的十种常用场景.md",
-    "redis/redis本地调试指令.md",
-    "redis/redis manager.md",
-    "redis/redis的常见问题",
-    "数据库/mysql存储结构/扇出.md",
-    "数据库/mysql存储结构/mysql的存储结构概述.md",
-    "数据库/mysql存储结构/mysql数据存储量计算推演.md",
-    "数据库/mysql存储引擎/其它引擎.md",
-    "数据库/mysql存储引擎",
-    "数据库/锁",
-    "数据库/索引",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
