@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,10 +197,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a905ed4135fd7c29",
+  "active": "9bbfab5c7ddb6a65",
   "lastOpenFiles": [
-    "行列式.md",
     "数学/线性代数/矩阵的运算.md",
+    "行列式.md",
     "数学/线性代数/矩阵.md",
     "人工智能/机器学习/机器学习三个月学习规划.md",
     "人工智能/Transformer/Transformer核心架构设计.md",
