@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "aeb835aeb75c02ef",
+        "id": "52ce9bc7f4c2c41c",
         "type": "tabs",
         "children": [
           {
-            "id": "d9dbf83594310cab",
+            "id": "e05b737c62fbd704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/MESI协议.md",
+                "file": "Java/并发编程/Volatile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MESI协议"
-            }
-          },
-          {
-            "id": "9828eaf007b71e36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang/并发编程/golang原子操作.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "golang原子操作"
+              "title": "Volatile"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +168,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9828eaf007b71e36",
+  "active": "ee2571119bbb9350",
   "lastOpenFiles": [
+    "Golang/内存管理",
+    "Java/内存管理",
+    "Java/并发编程",
+    "Java/基础知识",
     "计算机组成原理/MESI协议.md",
     "Golang/并发编程/golang原子操作.md",
     "Golang/基础知识/golang 的构建环境或构建体系相关配置项.md",
@@ -193,23 +182,22 @@
     "Golang/基础知识",
     "Golang/gorm",
     "Golang/基础知识/go-path.md",
-    "Golang/并发编程/golang内存分析.md",
+    "Golang/内存管理/golang内存分析.md",
     "Golang/扩展/go-plugin热加载.md",
     "Golang/基础知识/golang的env配置.md",
-    "Java/Volatile.md",
+    "Java/并发编程/Volatile.md",
     "目录.base",
     "人工智能/硬件/显卡.md",
     "人工智能/硬件/算力&内存带宽&内存容量和通信数据量的计算.md",
     "人工智能/机器学习/机器学习三个月学习规划.md",
     "计算机组成原理",
     "数据库/mysql存储结构/mysql的存储结构概述.md",
-    "Java/HashMap.md",
+    "Java/基础知识/HashMap.md",
     "数据库/mysql存储引擎/InnoDB.md",
     "基础算法/树/红黑树.md",
-    "Java/ThreadLocal.md",
+    "Java/基础知识/ThreadLocal.md",
     "Java/书单.md",
     "基础算法/树",
-    "Java/Untitled",
     "数学/线性代数/矩阵的运算.md",
     "数学/线性代数/矩阵.md",
     "数学/行列式.md",
@@ -218,9 +206,6 @@
     "Untitled.base",
     "人工智能/机器学习/深度学习/计算机视觉/CV概述.md",
     "人工智能/机器学习/深度学习/AIGC/AIGC概述.md",
-    "人工智能/机器学习/半监督学习/半监督学习概述.md",
-    "数学/应用数学",
-    "数学/离散数学",
     "人工智能/AIOps/美团AIOps图例/相似事件能力结果展示.png",
     "人工智能/机器学习/监督学习/图片/信息增益计算举例.png",
     "人工智能/机器学习/监督学习/图片/信息增益公式.png",
