@@ -50,7 +50,7 @@ go 的插件系统必须满足依赖
 **plugin system**
 ```
 go build --trimpath --buildmode=plugin -> plugin was built with a different version of package internal/goarch"  
-go build --trimpath --buildmode=plugin plugin was built with a different version of package gopkg.inshopline.com/gsoul/openmf/stateless/model"
+go build --trimpath --buildmode=plugin plugin was built with a different version of package xxx"
 ```
 
 场景分析  
