@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/微积分/使用导数求极值.md",
+                "file": "数学/微积分/偏导数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用导数求极值"
+              "title": "偏导数"
             }
           }
         ]
@@ -171,6 +171,7 @@
   "active": "3306b44a0c2205ee",
   "lastOpenFiles": [
     "数学/微积分/使用导数求极值.md",
+    "数学/微积分/偏导数.md",
     "Untitled 1.base",
     "Untitled.base",
     "Golang/扩展/go-plugin热加载.md",
@@ -205,7 +206,6 @@
     "人工智能/Transformer/Transformer核心架构设计.md",
     "数学/向量.md",
     "人工智能/机器学习/深度学习/计算机视觉/CV概述.md",
-    "人工智能/机器学习/深度学习/AIGC/AIGC概述.md",
     "人工智能/AIOps/美团AIOps图例/相似事件能力结果展示.png",
     "人工智能/机器学习/监督学习/图片/信息增益计算举例.png",
     "人工智能/机器学习/监督学习/图片/信息增益公式.png",
