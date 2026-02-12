@@ -41,7 +41,7 @@ go-plugin 踩过的坑
 go 的插件系统必须满足依赖  
 1. 宿主程序和插件的deps必须一致,包括GOVERSION等  
 2. 宿主程序和插件的gcflags 等具有部分强制性，例如debug模式下 all="-l -N"  
-3. [[GOPATH]]一致，不同的环境构建时候可能带有path,导致符号表找不到，因此需要 trimpath（同一个环境下运行宿主和程序，不需要考虑这点）  
+3. [[go-path]]一致，不同的环境构建时候可能带有path,导致符号表找不到，因此需要 trimpath（同一个环境下运行宿主和程序，不需要考虑这点）  
 4. 同名的so文件只会加载一次，第二次直接用cache,因此如果第二次加载是个空文件，也不会报错（go设计问题）  
 5. 不同名的so文件如果go.mod定义的module是一样的，则提示plugin already loaded  
 6. 编译为plugin的时候必须开启CGO  
