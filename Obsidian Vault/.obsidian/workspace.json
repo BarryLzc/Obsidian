@@ -35,8 +35,7 @@
               "title": "交叉商对数"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +182,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee2571119bbb9350",
+  "active": "698a047088ea3832",
   "lastOpenFiles": [
+    "人工智能/机器学习/基础概念/图片/交叉商对数.md",
     "人工智能/机器学习/基础概念/图片",
     "人工智能/机器学习/基础概念/平方差&交叉商函数对比.png",
     "人工智能/机器学习/基础概念/机器学习基础算法/逻辑回归.md",
     "数学/线性代数/非凸函数.md",
-    "人工智能/机器学习/基础概念/图片/交叉商对数.md",
     "人工智能/机器学习/基础概念/机器学习基础算法/线性回归.md",
     "report.md",
     "人工智能/机器学习/基础概念/机器学习基础算法/Untitled",
@@ -209,7 +208,6 @@
     "Golang/gorm/Untitled",
     "Golang/内存管理",
     "Java/内存管理",
-    "Java/并发编程",
     "计算机组成原理/MESI协议.md",
     "Golang/并发编程/golang原子操作.md",
     "Golang/基础知识/golang 的构建环境或构建体系相关配置项.md",
