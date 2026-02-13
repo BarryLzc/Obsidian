@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ba47daf5c2bc52",
+        "id": "30c841142907d155",
         "type": "tabs",
         "children": [
           {
-            "id": "73ab3c85b53455bc",
+            "id": "6fc2622008f7bcdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/信号量.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "信号量"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -168,8 +164,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "73ab3c85b53455bc",
+  "active": "ee2571119bbb9350",
   "lastOpenFiles": [
+    "数据库/mysql使用注意事项.md",
     "操作系统/信号量.md",
     "人工智能/机器学习/机器学习三个月学习规划.md",
     "人工智能/机器学习/半监督学习/半监督学习概述.md",
@@ -207,7 +204,6 @@
     "Golang/并发编程/golang协程问题排查.md",
     "Golang/基础知识/go-path.md",
     "Golang/内存管理/golang内存分析.md",
-    "Golang/基础知识/golang的env配置.md",
     "人工智能/AIOps/美团AIOps图例/相似事件能力结果展示.png",
     "人工智能/机器学习/监督学习/图片/信息增益计算举例.png",
     "人工智能/机器学习/监督学习/图片/信息增益公式.png",
