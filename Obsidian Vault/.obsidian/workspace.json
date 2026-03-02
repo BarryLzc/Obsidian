@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1fef424344a16651",
+        "id": "7f9af286bec479e3",
         "type": "tabs",
         "children": [
           {
-            "id": "618c32d0f9aea4c2",
+            "id": "1b077bc77728ba90",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -164,8 +164,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "618c32d0f9aea4c2",
+  "active": "1b077bc77728ba90",
   "lastOpenFiles": [
+    "人工智能/Agent/Agent的两大基石SKILL和MCP.md",
+    "人工智能/Agentic Development/Claude Code/ClaudeCode分阶段工作.md",
+    "人工智能/Agent",
+    "人工智能/UCP/UCP全流程阅读笔记.md",
+    "Screen Shot 2026-02-27 at 11.14.16.png",
+    "人工智能/UCP",
+    "人工智能/Agentic Development/Claude Code/ClaudeCode企业开发的思考.md",
+    "人工智能/Agentic Development/Claude Code/扁鹊问诊.md",
+    "人工智能/Agentic Development/AI-Native-PRD模版.md",
+    "人工智能/Agentic Development/Claude Code",
+    "人工智能/Agentic Development",
+    "计算机组成原理/MESI协议.md",
+    "Java/并发编程/Volatile.md",
+    "Java/书单.md",
+    "基础算法/树/红黑树.md",
+    "Java/基础知识/HashMap.md",
     "人工智能/机器学习/机器学习大纲.md",
     "人工智能/机器学习/深度学习/基础概念/深度学习的运算本质.md",
     "数学/线性代数/矩阵的运算.md",
@@ -185,25 +201,10 @@
     "人工智能/机器学习/基础概念/机器学习基础算法/逻辑回归.md",
     "人工智能/机器学习/基础概念/图片",
     "人工智能/机器学习/基础概念/平方差&交叉商函数对比.png",
-    "数学/线性代数/非凸函数.md",
-    "人工智能/机器学习/基础概念/机器学习基础算法/线性回归.md",
-    "report.md",
     "人工智能/机器学习/基础概念/机器学习基础算法/Untitled",
     "人工智能/机器学习/基础概念/机器学习基础算法/逻辑回归",
-    "数学/微积分/导数.md",
-    "数学/微积分/偏导数.md",
-    "导数.md",
-    "人工智能/机器学习/基础概念/梯度下降.md",
-    "人工智能/机器学习/基础概念/梯度爆炸.md",
     "人工智能/机器学习/基础概念/机器学习基础算法",
     "Untitled 1.base",
-    "Untitled.base",
-    "Golang/扩展/go-plugin热加载.md",
-    "Java/并发编程/Volatile.md",
-    "Java/Natty框架/Untitled",
-    "Golang/gorm/Untitled",
-    "Golang/内存管理",
-    "计算机组成原理/MESI协议.md",
     "人工智能/AIOps/美团AIOps图例/相似事件能力结果展示.png",
     "人工智能/机器学习/监督学习/图片/信息增益计算举例.png",
     "人工智能/机器学习/监督学习/图片/信息增益公式.png",
@@ -211,7 +212,6 @@
     "架构设计/BFF/回调链路说明.png",
     "架构设计/BFF/BFF边界.png",
     "操作系统/图片/单体内核&微内核.png",
-    "操作系统/图片/os_working_process.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
