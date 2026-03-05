@@ -14,7 +14,7 @@
 
 ## 3. 功能需求与验收标准 (User Stories & AC)
 是 AI 最核心的工作依据。使用 REQ-XXX 编号方便引用。
-可以参考[[AI-Native-PRD模版]]
+可以参考AI-Native-PRD模版
 
 ### REQ-001: 用户登录表单
 - **描述**: 提供邮箱/密码登录界面。
