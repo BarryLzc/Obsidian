@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f9af286bec479e3",
+        "id": "912cbcc75b43a18b",
         "type": "tabs",
         "children": [
           {
-            "id": "1b077bc77728ba90",
+            "id": "0eca90b0f8aad4e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/linux常规操作.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "linux常规操作"
             }
           }
         ]
@@ -164,8 +168,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1b077bc77728ba90",
+  "active": "0eca90b0f8aad4e6",
   "lastOpenFiles": [
+    "人工智能/Agentic Development/AI-Native-PRD模版.md",
     "人工智能/Agent/Agent的两大基石SKILL和MCP.md",
     "人工智能/Agentic Development/Claude Code/ClaudeCode分阶段工作.md",
     "人工智能/Agent",
@@ -174,7 +179,6 @@
     "人工智能/UCP",
     "人工智能/Agentic Development/Claude Code/ClaudeCode企业开发的思考.md",
     "人工智能/Agentic Development/Claude Code/扁鹊问诊.md",
-    "人工智能/Agentic Development/AI-Native-PRD模版.md",
     "人工智能/Agentic Development/Claude Code",
     "人工智能/Agentic Development",
     "计算机组成原理/MESI协议.md",
