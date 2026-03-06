@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/linux常规操作.md",
+                "file": "计算机网络/Cloudflared.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linux常规操作"
+              "title": "Cloudflared"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "0eca90b0f8aad4e6",
   "lastOpenFiles": [
+    "操作系统/linux常规操作.md",
+    "计算机网络/Cloudflared.md",
     "人工智能/Agentic Development/AI-Native-PRD模版.md",
     "人工智能/Agent/Agent的两大基石SKILL和MCP.md",
     "人工智能/Agentic Development/Claude Code/ClaudeCode分阶段工作.md",
@@ -201,8 +203,6 @@
     "人工智能/机器学习/监督学习/支持向量机（SVM）.md",
     "人工智能/机器学习/监督学习/图片/SVM算法对比图.png",
     "人工智能/机器学习/监督学习/决策树算法.md",
-    "人工智能/机器学习/基础概念/图片/交叉商对数.md",
-    "人工智能/机器学习/基础概念/机器学习基础算法/逻辑回归.md",
     "人工智能/机器学习/基础概念/图片",
     "人工智能/机器学习/基础概念/平方差&交叉商函数对比.png",
     "人工智能/机器学习/基础概念/机器学习基础算法/Untitled",
