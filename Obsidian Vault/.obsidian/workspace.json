@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "27507f5389569627",
+        "id": "6b008e60403d9879",
         "type": "tabs",
         "children": [
           {
-            "id": "05c3271571ab5791",
+            "id": "2843bed4e119f83a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/Agentic Development/Claude Code/源码/ClaudeCode源码阅读笔记.md",
+                "file": "架构设计/网关架构设计/网络框架选项/高性能网关go网络框架.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ClaudeCode源码阅读笔记"
-            }
-          },
-          {
-            "id": "9a91a5d51b3d54ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能/Agentic Development/Claude Code/源码/ClaudeCode源码阅读笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ClaudeCode源码阅读笔记"
-            }
-          },
-          {
-            "id": "4e97d2d43c567e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能/Agentic Development/Claude Code/源码/ClaudeCode源码阅读笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ClaudeCode源码阅读笔记"
-            }
-          },
-          {
-            "id": "61845687ce5f3878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能/Agentic Development/Claude Code/源码/ClaudeCode源码阅读笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ClaudeCode源码阅读笔记"
-            }
-          },
-          {
-            "id": "500ebac7aa09cfb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能/Agentic Development/Claude Code/源码/ClaudeCode源码阅读笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ClaudeCode源码阅读笔记"
-            }
-          },
-          {
-            "id": "7bd143dbc67d7f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能/Agentic Development/Claude Code/源码/ClaudeCode源码阅读笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ClaudeCode源码阅读笔记"
+              "title": "高性能网关go网络框架"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,16 +168,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7bd143dbc67d7f67",
+  "active": "2843bed4e119f83a",
   "lastOpenFiles": [
-    "人工智能/Agentic Development/Claude Code/源码/processUserInput.ts.md",
-    "人工智能/Agentic Development/Claude Code/源码/queryLoop().md",
-    "人工智能/Agentic Development/Claude Code/源码/submitMessage().md",
+    "Golang/golang网络框架/fast-http.md",
+    "架构设计/网关架构设计/网络框架选项/高性能网关go网络框架.md",
+    "架构设计/网关架构设计/网络框架选项",
+    "Golang/golang网络框架/fast-http vs gin.md",
+    "Golang/golang网络框架/gin.md",
+    "技术总结/【多租户应用授权体系建设】.md",
+    "技术总结/【SHOPLINE GQL Point-Limit限流系统】.md",
+    "技术总结/【AI Vibe Coding套件研发】.md",
+    "Bank Information.md",
+    "计算机网络/Cloudflared.md",
     "人工智能/Agentic Development/Claude Code/源码/ClaudeCode源码阅读笔记.md",
-    "人工智能/Agentic Development/Claude Code/ClaudeCode企业开发的思考.md",
-    "人工智能/Agentic Development/Claude Code/源码",
+    "人工智能/Agentic Development/Claude Code/源码/queryLoop().md",
+    "人工智能/Agentic Development/Claude Code/源码/processUserInput.ts.md",
+    "人工智能/Agentic Development/Claude Code/源码/submitMessage().md",
     "人工智能/Agentic Development/Claude Code/使用指令.md",
+    "技术总结/技术晋升述值材料.md",
     "人工智能/Agentic Development/Codex/使用指令.md",
+    "人工智能/Agentic Development/Claude Code/ClaudeCode企业开发的思考.md",
+    "技术总结",
+    "人工智能/Agentic Development/Claude Code/源码",
     "人工智能/Agentic Development/AI-Native-PRD模版.md",
     "人工智能/Agentic Development/Claude Code/mcp配置.png",
     "人工智能/Agentic Development/Claude Code/ClaudeCode分阶段工作.md",
@@ -261,26 +202,14 @@
     "人工智能/ollama",
     "ucp流程图.png",
     "人工智能/Agentic Development/Codex",
-    "计算机网络/Cloudflared.md",
     "人工智能/Agent",
     "人工智能/UCP/UCP全流程阅读笔记.md",
     "人工智能/UCP",
-    "人工智能/Agentic Development/Claude Code/扁鹊问诊.md",
     "人工智能/Agentic Development/Claude Code",
     "人工智能/Agentic Development",
-    "计算机组成原理/MESI协议.md",
-    "Java/并发编程/Volatile.md",
-    "Java/书单.md",
-    "基础算法/树/红黑树.md",
-    "Java/基础知识/HashMap.md",
-    "人工智能/机器学习/机器学习大纲.md",
-    "人工智能/机器学习/深度学习/基础概念/深度学习的运算本质.md",
-    "数学/线性代数/矩阵的运算.md",
     "人工智能/机器学习/深度学习/基础概念/Untitled",
     "人工智能/机器学习/监督学习/图片/SVM算法对比图.png",
-    "人工智能/机器学习/基础概念/图片",
     "人工智能/机器学习/基础概念/平方差&交叉商函数对比.png",
-    "人工智能/机器学习/基础概念/机器学习基础算法/Untitled",
     "人工智能/AIOps/美团AIOps图例/相似事件能力结果展示.png",
     "人工智能/机器学习/监督学习/图片/信息增益计算举例.png",
     "人工智能/机器学习/监督学习/图片/信息增益公式.png",
