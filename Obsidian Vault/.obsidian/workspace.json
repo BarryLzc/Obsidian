@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构设计/网关架构设计/网络框架选项/高性能网关go网络框架.md",
+                "file": "Golang/多租户框架/Open Multi-Tenant Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高性能网关go网络框架"
+              "title": "Open Multi-Tenant Framework"
             }
           }
         ]
@@ -171,6 +171,8 @@
   "active": "2843bed4e119f83a",
   "lastOpenFiles": [
     "Golang/golang网络框架/fast-http.md",
+    "Golang/多租户框架/Open Multi-Tenant Framework.md",
+    "Golang/多租户框架",
     "架构设计/网关架构设计/网络框架选项/高性能网关go网络框架.md",
     "架构设计/网关架构设计/网络框架选项",
     "Golang/golang网络框架/fast-http vs gin.md",
@@ -203,11 +205,9 @@
     "ucp流程图.png",
     "人工智能/Agentic Development/Codex",
     "人工智能/Agent",
-    "人工智能/UCP/UCP全流程阅读笔记.md",
     "人工智能/UCP",
     "人工智能/Agentic Development/Claude Code",
     "人工智能/Agentic Development",
-    "人工智能/机器学习/深度学习/基础概念/Untitled",
     "人工智能/机器学习/监督学习/图片/SVM算法对比图.png",
     "人工智能/机器学习/基础概念/平方差&交叉商函数对比.png",
     "人工智能/AIOps/美团AIOps图例/相似事件能力结果展示.png",
