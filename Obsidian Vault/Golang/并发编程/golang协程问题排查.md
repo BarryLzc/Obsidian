@@ -1,6 +1,6 @@
 ### 1. **`runtime` 包**
 
-Go 的 `runtime` 包提供了一些用于调试和分析 Goroutine 的 API，例如：
+Go 的 `runtime` 包提供了一些用于调试和分析 [[Goroutine]] 的 API，例如：
 
 - `runtime.NumGoroutine()`: 返回当前运行的 Goroutine 数量，可以帮助检测 Goroutine 泄露。
 - `runtime.Stack()`: 获取当前所有 Goroutine 的栈信息，类似 `pprof` 的 `goroutine` 采样。
