@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c9ae68b229552a",
+        "id": "7a41e3c6e3f390b1",
         "type": "tabs",
         "children": [
           {
-            "id": "b92c935b7650ff84",
+            "id": "bb866c7e8e71bca8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/网络协议/GraphQL.md",
+                "file": "计算机网络/网络协议/ProtoBuf 基础类面试题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GraphQL"
+              "title": "ProtoBuf 基础类面试题"
             }
           }
         ]
@@ -168,16 +168,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b92c935b7650ff84",
+  "active": "bb866c7e8e71bca8",
   "lastOpenFiles": [
-    "Golang/内存管理/golang内存分析.md",
-    "Golang/内存管理/golang逃逸分析.md",
-    "计算机网络/网络协议/GraphQL内部术语与AST解析.md",
-    "计算机网络/网络协议/GraphQL.md",
+    "redis/分布式锁.md",
+    "计算机网络/网络协议/ProtoBuf 基础类面试题.md",
     "redis/redis的十种常用场景.md",
+    "redis/缓存&数据库不一致问题解决.md",
+    "Golang/内存管理/golang逃逸分析.md",
+    "Golang/内存管理/golang内存分析.md",
+    "MQ/Pulsar/Share模式.md",
+    "MQ/Pulsar/Key-Share模式.md",
+    "MQ/消息队列的常见问题总结.md",
+    "计算机网络/TCP&IP协议族.md",
+    "计算机网络/网络协议/GraphQL.md",
+    "计算机网络/网络协议/GraphQL内部术语与AST解析.md",
+    "projetcs/cahoot/游戏主题创建技术方案.md",
+    "计算机网络/对称加密vs非对称加密.md",
+    "计算机网络/备用路径.md",
+    "计算机网络/冗余机制.md",
+    "架构设计/交易核心系统设计/分布式事务的实现/幂等性实现/ABA问题.md",
+    "目录.base",
     "Golang/golang网络框架/fast-http.md",
     "计算机网络/网络协议",
-    "redis/分布式锁.md",
     "数据库/事物/事物隔离级别.md",
     "数据库/事物/RR级别下的幻读.md",
     "数据库/mysql存储结构/mysql的存储结构概述.md",
@@ -186,26 +198,14 @@
     "数据库/mysql存储结构/mysql存储结构优化.md",
     "数据库/mysql存储引擎/InnoDB.md",
     "计算机网络/Cloudflared.md",
-    "Golang/并发编程/golang协程问题排查.md",
-    "架构设计/多租户框架/Open Multi-Tenant Framework.md",
-    "Golang/orm框架/gorm源码阅读.md",
-    "Golang/并发编程/Goroutine.md",
-    "Golang/并发编程/不要通过共享内存来通信，而要通过通信来共享内存.md",
     "Untitled.base",
-    "Golang/go-plugin/go-plugin的开发阶段的问题.md",
     "Golang/go-plugin",
     "Untitled 1.base",
-    "Golang/golang网络框架/gin.md",
-    "数据库/分库分表更新数据的时候要指定字段更新.md",
-    "数据库/mysql使用注意事项.md",
-    "数据库/Timestamp NULL 的非标准行为.md",
-    "数据库/mysql存储结构/扇出.md",
     "HTTP",
     "**HTTP",
     "计算机网络/HTTP",
     "架构设计/多租户框架",
     "架构设计/网关架构设计/网络框架选项",
-    "技术总结",
     "人工智能/Agentic Development/Claude Code/mcp配置.png",
     "ucp流程图.png",
     "人工智能/机器学习/监督学习/图片/SVM算法对比图.png",

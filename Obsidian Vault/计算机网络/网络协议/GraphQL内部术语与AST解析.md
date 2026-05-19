@@ -105,10 +105,10 @@ mutation {
 
 ##### Union vs Interface
 
-| 特性 | Union | Interface |
-|:---|:---|:---|
-| 共同字段 | 不需要 | 必须实现 |
-| 用途 | 异构结果集 | 共享行为约束 |
+| 特性   | Union | Interface |
+| :--- | :---- | :-------- |
+| 共同字段 | 不需要   | 必须实现      |
+| 用途   | 异构结果集 | 共享行为约束    |
 
 ```graphql
 union SearchResult = User | Post | Comment
