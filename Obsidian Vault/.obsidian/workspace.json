@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7a41e3c6e3f390b1",
+        "id": "1c7373eaa43ea58a",
         "type": "tabs",
         "children": [
           {
-            "id": "bb866c7e8e71bca8",
+            "id": "333ea6f8fec8223b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/网络协议/ProtoBuf 基础类面试题.md",
+                "file": "Golang/channel/Channel使用的注意事项.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ProtoBuf 基础类面试题"
+              "title": "Channel使用的注意事项"
             }
           }
         ]
@@ -168,10 +168,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb866c7e8e71bca8",
+  "active": "333ea6f8fec8223b",
   "lastOpenFiles": [
-    "redis/分布式锁.md",
+    "Golang/channel/阻塞等待消费.png",
+    "Golang/channel/Channel使用的注意事项.md",
+    "Golang/channel/设置超时.png",
+    "Golang/channel/非阻塞发送.png",
+    "Golang/channel/正确的使用.png",
+    "Screen Shot 2026-05-20 at 11.50.46.png",
+    "Golang/channel/消费者启动需先于发送者.png",
+    "Golang/channel",
+    "Golang/channel/消费者关闭channel.png",
     "计算机网络/网络协议/ProtoBuf 基础类面试题.md",
+    "redis/分布式锁.md",
     "redis/redis的十种常用场景.md",
     "redis/缓存&数据库不一致问题解决.md",
     "Golang/内存管理/golang逃逸分析.md",
@@ -196,8 +205,6 @@
     "数据库/mysql存储引擎/其它引擎.md",
     "数据库/mysql存储结构/mysql数据存储量计算推演.md",
     "数据库/mysql存储结构/mysql存储结构优化.md",
-    "数据库/mysql存储引擎/InnoDB.md",
-    "计算机网络/Cloudflared.md",
     "Untitled.base",
     "Golang/go-plugin",
     "Untitled 1.base",
@@ -205,17 +212,9 @@
     "**HTTP",
     "计算机网络/HTTP",
     "架构设计/多租户框架",
-    "架构设计/网关架构设计/网络框架选项",
     "人工智能/Agentic Development/Claude Code/mcp配置.png",
     "ucp流程图.png",
     "人工智能/机器学习/监督学习/图片/SVM算法对比图.png",
-    "人工智能/机器学习/基础概念/平方差&交叉商函数对比.png",
-    "人工智能/AIOps/美团AIOps图例/相似事件能力结果展示.png",
-    "人工智能/机器学习/监督学习/图片/信息增益计算举例.png",
-    "人工智能/机器学习/监督学习/图片/信息增益公式.png",
-    "人工智能/机器学习/监督学习/图片/决策树递归.png",
-    "架构设计/BFF/回调链路说明.png",
-    "架构设计/BFF/BFF边界.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
