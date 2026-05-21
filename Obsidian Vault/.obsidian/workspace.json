@@ -168,8 +168,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee2571119bbb9350",
+  "active": "9885ba524100e1c4",
   "lastOpenFiles": [
+    "驱动表.md",
+    "数据库/mysql使用注意事项.md",
     "Golang/channel/Channel使用的注意事项.md",
     "Golang/channel/阻塞等待消费.png",
     "Golang/channel/设置超时.png",
@@ -204,7 +206,6 @@
     "数据库/mysql存储结构/mysql的存储结构概述.md",
     "数据库/mysql存储引擎/其它引擎.md",
     "数据库/mysql存储结构/mysql数据存储量计算推演.md",
-    "数据库/mysql存储结构/mysql存储结构优化.md",
     "Untitled.base",
     "Golang/go-plugin",
     "Untitled 1.base",
