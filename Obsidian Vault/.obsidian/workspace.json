@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/锁/锁的使用.md",
+                "file": "数据库/分库分表更新数据的时候要指定字段更新.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "锁的使用"
+              "title": "分库分表更新数据的时候要指定字段更新"
             }
           }
         ],
@@ -185,9 +185,11 @@
   },
   "active": "cbf76d804bed08ab",
   "lastOpenFiles": [
+    "数据库/Timestamp NULL 的非标准行为.md",
+    "数据库/mysql使用注意事项.md",
+    "数据库/锁/锁的使用.md",
     "数据库/锁/线上死锁问题解决方案.md",
     "数据库/锁/间隙锁.md",
-    "数据库/锁/锁的使用.md",
     "数据库/事物/RR级别下的幻读.md",
     "数据库/mysql存储结构/mysql存储结构优化.md",
     "数据库/mysql存储结构/mysql数据存储量计算推演.md",
@@ -200,7 +202,6 @@
     "Golang/channel/Channel使用的注意事项.md",
     "Golang/内存管理/golang逃逸分析.md",
     "Golang/内存管理/golang内存分析.md",
-    "数据库/mysql使用注意事项.md",
     "驱动表.md",
     "Golang/channel/阻塞等待消费.png",
     "Golang/channel/设置超时.png",
@@ -218,7 +219,6 @@
     "计算机网络/网络协议/GraphQL.md",
     "计算机网络/网络协议/GraphQL内部术语与AST解析.md",
     "projetcs/cahoot/游戏主题创建技术方案.md",
-    "计算机网络/对称加密vs非对称加密.md",
     "目录.base",
     "计算机网络/网络协议",
     "Untitled.base",
