@@ -168,8 +168,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "46fbc2837a39431b",
+  "active": "ee2571119bbb9350",
   "lastOpenFiles": [
+    "计算机组成原理/二进制基础.jpg",
     "计算机网络/Cloudflared.md",
     "计算机组成原理/位运算.md",
     "人工智能/Agentic Development/Claude Code/使用指令.md",
@@ -203,7 +204,6 @@
     "Golang/channel",
     "redis/分布式锁.md",
     "redis/redis的十种常用场景.md",
-    "redis/缓存&数据库不一致问题解决.md",
     "目录.base",
     "计算机网络/网络协议",
     "Untitled.base",
