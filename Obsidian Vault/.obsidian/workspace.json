@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/位运算.md",
+                "file": "人工智能/Agent/AI Agent安全&封控问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "位运算"
+              "title": "AI Agent安全&封控问题"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 200
   },
   "right": {
     "id": "bc2f17a6f8792d62",
@@ -168,11 +168,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee2571119bbb9350",
+  "active": "46fbc2837a39431b",
   "lastOpenFiles": [
+    "人工智能/Transformer/Transformer核心架构设计.md",
+    "人工智能/Agent/AI Agent安全&封控问题.md",
+    "人工智能/Agent/Agent的两大基石SKILL和MCP.md",
+    "计算机组成原理/位运算.md",
     "计算机组成原理/二进制基础.jpg",
     "计算机网络/Cloudflared.md",
-    "计算机组成原理/位运算.md",
     "人工智能/Agentic Development/Claude Code/使用指令.md",
     "数据库/mysql存储结构/mysql数据存储量计算推演.md",
     "数据库/mysql存储结构/扇出.md",
@@ -202,8 +205,6 @@
     "Golang/channel/非阻塞发送.png",
     "Screen Shot 2026-05-20 at 11.50.46.png",
     "Golang/channel",
-    "redis/分布式锁.md",
-    "redis/redis的十种常用场景.md",
     "目录.base",
     "计算机网络/网络协议",
     "Untitled.base",
@@ -215,7 +216,6 @@
     "架构设计/多租户框架",
     "人工智能/Agentic Development/Claude Code/mcp配置.png",
     "ucp流程图.png",
-    "人工智能/机器学习/监督学习/图片/SVM算法对比图.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
