@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2edaa8ec10c17f43",
+        "id": "bc1ad7959d563cd6",
         "type": "tabs",
         "children": [
           {
-            "id": "46fbc2837a39431b",
+            "id": "2e72cbdd2315ecb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/Agent/AI Agent安全&封控问题.md",
+                "file": "MQ/pulsar vs kafka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Agent安全&封控问题"
+              "title": "pulsar vs kafka"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5
   },
   "right": {
     "id": "bc2f17a6f8792d62",
@@ -168,10 +168,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "46fbc2837a39431b",
+  "active": "2e72cbdd2315ecb2",
   "lastOpenFiles": [
+    "MQ/pulsar vs rocketMQ.md",
+    "MQ/pulsar vs kafka.md",
+    "架构设计/DDD/CQRS.md",
+    "人工智能/Agent/AI Agent安全&风控问题.md",
     "人工智能/Transformer/Transformer核心架构设计.md",
-    "人工智能/Agent/AI Agent安全&封控问题.md",
     "人工智能/Agent/Agent的两大基石SKILL和MCP.md",
     "计算机组成原理/位运算.md",
     "计算机组成原理/二进制基础.jpg",
@@ -197,9 +200,6 @@
     "Golang/channel/消费者关闭channel.png",
     "Golang/channel/正确的使用.png",
     "Golang/channel/Channel使用的注意事项.md",
-    "Golang/内存管理/golang逃逸分析.md",
-    "Golang/内存管理/golang内存分析.md",
-    "驱动表.md",
     "Golang/channel/阻塞等待消费.png",
     "Golang/channel/设置超时.png",
     "Golang/channel/非阻塞发送.png",

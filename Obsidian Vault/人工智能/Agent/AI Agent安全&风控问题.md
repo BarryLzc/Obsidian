@@ -11,7 +11,7 @@
 
 - **回应：** 推崇在 Bedrock Native 侧直接配置 Bedrock Guardrails，通过其 PII 识别、Prompt Attack 检测和敏感词过滤；推荐开启 Stream 模式降低感知延迟。
 - **挑战：Bedrock 原生 Guardrails 做首尾两端的检测很成熟，但对 MCP Tool 场景略有欠缺：**
-    > 
+
     > 1. **二次注入（Tool Output Injection）：** 当 MCP Tool 从 DB 或第三方 API 检索到恶意 Payload 时，直接返回给 Model 会绕过传统 Input Guardrail。
     >   
     > 2. **延迟与成本杠杆：** 在多轮工具调用循环（Tool Call Loops）中，如果每次 Tool 输出都走一遍 Bedrock `ApplyGuardrail` API，串行 Latency 会增加 200-500ms。 **我们更推荐：** **轻量级双层防护**。在 MCP Gateway 侧用 Regex / AST 语法树做高并发、极低延迟的结构化校验（如检测输出中是否包含 `<script>` 或隐藏指令）；仅把高风险、非结构化的文本返回交由 Bedrock Guardrail 做深度语义扫描。”
@@ -20,7 +20,7 @@
 
 - **回应：** 主推 **AWS Step Functions (Distributed Map)** 编排，或者利用 Bedrock Agents 的内置 Session State，配合 DynamoDB 记录对话上下文。
 - **挑战：Step Functions 适合确定性的 Dag 流程，但用它强行编排自主 Agent 会陷入 ‘状态机爆炸：**
-    > 
+
     > 1. Agent 的 Tool Call 顺序和重试策略是动态确定的，硬编码在 Step Functions 里会丧失 Agentic 的灵活性；
     > 
     > 2. Bedrock 原生 Session State 对复杂长流程（如全自动代码重构）的断点续传（Checkpointing）粒度不够细。 **我们更推荐：** **‘无状态 Client + 分布式 Event Sourcing’**。将 Agent 的思维链（CoT）与 Tool 执行结果以事件流形式写入 Kafka/Pulsar，状态落盘至 Redis/DynamoDB。当 Tool 调用超时或崩溃时，客户端通过 Replay Event Stream 迅速重建 Context，实现秒级无感恢复。”
@@ -29,7 +29,7 @@
 
 - **回应：** 推荐结合 Amazon EventBridge 捕获高危事件，触发 SNS/Lambda 向管理员发送确认通知，或使用 AppSync / Step Functions Task Token 实现异步挂起与回调（Callback）。
 - **挑战：Task Token 挂起机制思路很对，但在高频/高敏业务场景（如电商改价、代码库 Merge）下，单纯的二次确认容易引发 ‘审批疲劳’。** **我们更关注：** **授权凭证化（Mandate-based HITL）与防篡改审计：**
-    > 
+
     > 1. **动态授权（AP2 理念）：** 高危操作不仅要人点确定，还要生成带公钥签名的短效 Mandate Token 喂给 MCP Tool，证明 ‘此操作经由特定人在特定时间显式授权’；
     >
     > 2. **不可篡改审计：** 将 Prompt、Agent 决策、HITL 审批记录以及 Tool 输入输出打包生成 Hash 链，异步写入 AWS CloudTrail 或 S3 Object Lock（WORM 存储），满足金融/企业级的不可否认性（Non-repudiation）审计。”
