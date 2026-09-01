@@ -35,8 +35,7 @@
               "title": "HTTP Message Signatures(RFC 9421)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,11 +182,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1748d7b721605ece",
+  "active": "44ee306e9552ab91",
   "lastOpenFiles": [
+    "计算机网络/签名&加密/HTTP Message Signatures(RFC 9421).md",
     "人工智能/UCP协议/UCP认证.md",
     "人工智能/Agent/Agent的两大基石SKILL和MCP.md",
-    "计算机网络/签名&加密/HTTP Message Signatures(RFC 9421).md",
     "计算机网络/签名&加密/传统认证机制对比.md",
     "计算机网络/签名&加密/对称加密vs非对称加密.md",
     "人工智能/UCP协议/UCP认证",
