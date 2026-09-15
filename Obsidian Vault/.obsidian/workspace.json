@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "c1c84c276555f001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java范化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java范化"
+            }
+          },
+          {
             "id": "1748d7b721605ece",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "HTTP Message Signatures(RFC 9421)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -67,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grpc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,8 +199,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "44ee306e9552ab91",
+  "active": "c1c84c276555f001",
   "lastOpenFiles": [
+    "Java/rpc框架/Dubbo范化调用.md",
+    "Java/Java范化.md",
+    "Pasted image 20260915160046.png",
+    "Golang/rpc框架/grpc.md",
+    "Java/rpc框架",
+    "Golang/go-plugin/go-plugin的开发阶段的问题.md",
+    "架构设计/BFF/Backend For Frontend (BFF).md",
     "计算机网络/签名&加密/HTTP Message Signatures(RFC 9421).md",
     "人工智能/UCP协议/UCP认证.md",
     "人工智能/Agent/Agent的两大基石SKILL和MCP.md",
@@ -209,11 +233,6 @@
     "计算机网络/网络协议/GraphQL.md",
     "数据库/分库分表更新数据的时候要指定字段更新.md",
     "数据库/Timestamp NULL 的非标准行为.md",
-    "数据库/mysql使用注意事项.md",
-    "数据库/锁/锁的使用.md",
-    "数据库/锁/线上死锁问题解决方案.md",
-    "数据库/锁/间隙锁.md",
-    "数据库/mysql存储结构/mysql存储结构优化.md",
     "Golang/channel/消费者启动需先于发送者.png",
     "Golang/channel/消费者关闭channel.png",
     "Golang/channel/正确的使用.png",
@@ -227,9 +246,7 @@
     "Untitled.base",
     "Golang/go-plugin",
     "Untitled 1.base",
-    "HTTP",
     "人工智能/Agentic Development/Claude Code/mcp配置.png",
-    "ucp流程图.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
